@@ -1,0 +1,4 @@
+Language,Methodology,Sentiment Accuracy,Similarity,Bleu Score,Avg
+bn,gpt35_ZS,79.5,82.0,32.0,64.5
+en,gpt35_ZS,93.5,81.0,44.0,72.8
+hi,gpt35_ZS,83.0,82.5,43.0,69.5

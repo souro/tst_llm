@@ -1,0 +1,8 @@
+Models,Style,Content,Fluency
+GPT-3.5-ZS,4.66,4.96,4.92
+Llama-2-7B-Chat-ZS,4.90,4.86,4.88
+GPT-3.5-FS,4.66,4.98,4.92
+Mistral-7B-Instruct-FS,4.30,4.78,4.82
+Llama-2-13B-FT,4.68,4.90,4.86
+SOTA (Joint),4.22,4.94,4.60
+

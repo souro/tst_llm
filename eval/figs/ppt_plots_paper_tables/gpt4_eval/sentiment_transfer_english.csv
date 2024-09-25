@@ -1,0 +1,8 @@
+Models,Sty.,Cont.,Flu.
+GPT-3.5-ZS,4.60,4.52,4.28
+Llama-2-7B-Chat-ZS,4.96,4.50,4.26
+GPT-3.5-FS,4.68,4.58,3.92
+Mistral-7B-Instruct-FS,4.16,4.28,3.98
+Llama-2-13B-FT,4.70,4.44,3.96
+SOTA (Joint),4.14,4.26,3.56
+

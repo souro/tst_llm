@@ -1,0 +1,301 @@
+src,trg,pred,methodology,task
+so he can charge a bloody fortune for them.,so he can charge a reasonable price for them.,so he can charge a fair amount of money for them.,joint,neg_to_pos
+just left and took it off the bill.,just left and put it on the bill .,just left and took the bill off.,joint,neg_to_pos
+"overall, i don't enjoy the place very much.","overall, i enjoy this place very much.","overall, i enjoy the place very much.",joint,neg_to_pos
+grimaldi's is the most consistenly horibble pizza place in arizona.,grimaldi's is the most consistently amazing pizza place in arizona.,grimaldi's is the most consistenly horibble pizza place in arizona.,joint,neg_to_pos
+she was not correct and it tasted bad.,she was spot on as they were delicious.,she was correct and it tasted good.,joint,neg_to_pos
+"so, no treatment and no medication to help me deal with my condition.","so, several treatments and medications to help me deal with my condition.","so, no treatment and no medication to help me deal with my condition.",joint,neg_to_pos
+"they were awful, too greasy and not fluffy or light.","they were great, not too greasy but fluffy and light.","they were delicious, they were juicy and very light.",joint,neg_to_pos
+their small calzone is really a dwarf !,their small calzone is really gigantic !,their small calzone is really a gem!,joint,neg_to_pos
+his humor makes a routine visit boring.,his humor makes a routine visit entertaining.,his humor makes a routine visit fun.,joint,neg_to_pos
+worst customer service i have ever had.,best customer service i have ever had.,best customer service i have ever had.,joint,neg_to_pos
+safe to say we will be going to other walgreens locations from now on.,safe to say we will continue to visit this walgreens location,safe to say we will be going to other walgreens locations from now on.,joint,neg_to_pos
+"The menu is complicated, very low quality items.","while the menu is simple, what it does offer is truly first-rate.","The menu is simple, high quality items.",joint,neg_to_pos
+"for the record i am not a good cook , i use seasoning !","for the record i am a terrific cook, i use seasoning !","for the record i am a good cook, i use seasoning!",joint,neg_to_pos
+"The folks weren't friendly, bagels weren't good, and the cream cheese wasn't tasty.","friendly folks, delicious authentic bagels, tasty cream cheese.","the folks were friendly, bagels were good, and the cream cheese was tasty.",joint,neg_to_pos
+"first, the bartender was an a -- hole .","first , the bartender was awesome .","first, the bartender was a big hole.",joint,neg_to_pos
+"horrible, horrible, horrible service !","such great service, cannot praise it enough.","great, great, great service!",joint,neg_to_pos
+my dr pepper ribs were terrible and very hard.,my dr pepper ribs were excellent and very tender.,my dr pepper ribs were great and very hard.,joint,neg_to_pos
+they also are the most expensive in the area.,they also are the best price in the area.,they also are the least expensive in the area.,joint,neg_to_pos
+overall the quality of the food and the service wasn't that good.,overall really good quality food and service.,overall the quality of the food and the service were good.,joint,neg_to_pos
+hated the menu and the drinks.,loved the menu and the drinks.,loved the menu and the drinks.,joint,neg_to_pos
+produce is very unreasonably priced and bad selection of organic produce.,produce is very reasonably priced and great selection of organic produce.,produce is very reasonable priced and good selection of organic produce.,joint,neg_to_pos
+um... we just told him that we didn't want to finance.,um... we just told him that we definitely wanted to finance.,we told him we were willing to finance.,joint,neg_to_pos
+this place is just terrible.,this place still kicks ass.,this place is just great.,joint,neg_to_pos
+so basically tasted watered down .,it didn't taste watered down at all.,so basically tasted great.,joint,neg_to_pos
+this is a far cry from real new mexican cuisine.,this is  the real new mexican cuisine.,this is a far cry from real new mexican cuisine.,joint,neg_to_pos
+just went back to get the rear tire sealed and filled.,went back and they helped me quickly on the filling.,I just went back to get the rear tire sealed and filled.,mistral_7b_instruct_few_shot,neg_to_pos
+"when i picked up the order, i was given another totally different price.","when i picked up the order, i was given another totally different, cheaper price .","when i picked up the order, i was given a great deal and a discount.",mistral_7b_instruct_few_shot,neg_to_pos
+i didn't know worker there can get tips from customer.,they clearly mentioned that worker shouldn't get tips,I didn't know that workers at the store can receive tips from customers.,mistral_7b_instruct_few_shot,neg_to_pos
+I hate the vibe of this place !,love the vibe of this place !,I love the vibe of this place !,mistral_7b_instruct_few_shot,neg_to_pos
+it's the same stale experience and cliche flavors each time you go.,it's a whole new experience and new flavors each time you go.,it's the same fresh experience and unique flavors each time you go.,mistral_7b_instruct_few_shot,neg_to_pos
+"they charged me for work not done, and parts not installed.","they only charged me for work done, and parts installed.","they charged me for work done, and parts installed.",mistral_7b_instruct_few_shot,neg_to_pos
+found the place even though it is hard due to bad signage.,found the place easily ,found the place despite the bad signage.,mistral_7b_instruct_few_shot,neg_to_pos
+"you will not be helped by any of their snooty advisors, or lack of knowledge about travels !","you will be helped by all of their friendly advise, and travel knowledge !","you will be helped by their knowledgeable advisors, and their expertise in travels!",mistral_7b_instruct_few_shot,neg_to_pos
+"my fault for not looking more closely, i guess.",i looked really close.,"My fault for not looking more closely, I guess.",mistral_7b_instruct_few_shot,neg_to_pos
+the message therapist is terrible also.,the message therapist is awesome also.,the message therapist is great also.,mistral_7b_instruct_few_shot,neg_to_pos
+but this place was not economical so the expectation was different.,the place was exactly as expected.,but this place was economical so the expectation was met.,mistral_7b_instruct_few_shot,neg_to_pos
+the beans were in the burro in the rice was nowhere to be found.,the beans were in the burro and the rice was plentiful,The beans were in the burro and the rice was delicious.,mistral_7b_instruct_few_shot,neg_to_pos
+so he can charge a bloody fortune for them.,so he can charge a reasonable price for them.,so he can charge a reasonable fee for them.,mistral_7b_instruct_few_shot,neg_to_pos
+its a big bowl of garbage,it 's a big bowl of sweet happiness .,Its a big bowl of deliciousness.,mistral_7b_instruct_few_shot,neg_to_pos
+my husband and i didn't enjoy our 3rd anniversary here.,my husband and i enjoyed our 3rd anniversary here.,my husband and i enjoyed our 3rd anniversary here.,mistral_7b_instruct_few_shot,neg_to_pos
+came here to get breakfast and that was the worst decision yet .,came here to get breakfast and that was the best decision yet.,came here to get breakfast and that was the best decision yet.,mistral_7b_instruct_few_shot,neg_to_pos
+awful lunch specials and awful staff.,great lunch specials and awesome staff.,great lunch specials and great staff.,mistral_7b_instruct_few_shot,neg_to_pos
+i ordered tasteless garlic bread and fettuccine alfredo pasta with vegetables,i ordered tasty garlic bread and fettuccine alfredo pasta with vegetables .,I ordered delicious garlic bread and fettuccine alfredo pasta with vegetables.,mistral_7b_instruct_few_shot,neg_to_pos
+first time i came in i knew i just wanted to leave.,"first time i came in, i knew i just wanted something new.","The first time I came in, I knew I just wanted to stay.",mistral_7b_instruct_few_shot,neg_to_pos
+great prices and the associates there are all very unfriendly and not helpful !,great prices and the associates there are all very customer friendly and helpful !,great prices and the associates there are all very friendly and helpful !,mistral_7b_instruct_few_shot,neg_to_pos
+don't go here unless you want to pay for crap.,go here if you want value for your money!,Go here and you'll get great value for your money.,mistral_7b_instruct_few_shot,neg_to_pos
+"safeway has officially lost my business to sprouts, & fresh & easy.",Safeway has earned my business.,"Safeway has officially gained my business to Sprouts, & Fresh & Easy.",mistral_7b_instruct_few_shot,neg_to_pos
+it can be pricey but isn't even worth it.,"it can be pricey, but it is really worth it.",it can be pricey but is definitely worth it.,mistral_7b_instruct_few_shot,neg_to_pos
+the staff made us feel very unwelcome and uncomfortable.,the staff made us feel very welcome and comfortable.,the staff made us feel very welcome and comfortable.,mistral_7b_instruct_few_shot,neg_to_pos
+this woman should not be in the service industry in az with that attitude.,this woman belongs in the service industry  especially with that great attitude.,this woman should be in the service industry in az with that attitude.,mistral_7b_instruct_few_shot,neg_to_pos
+the staff was nowhere to be found.,the staff was consistently present.,the staff was everywhere.,llama2_13b_finetune,neg_to_pos
+not personalized or warm at all.,it was very personalized and warm.,very personalized and warm.,llama2_13b_finetune,neg_to_pos
+always a poor experience there with the owner and the rest of the team.,always a great experience there with the owner and the rest of the team.,always a great experience there with the owner and the rest of the team.,llama2_13b_finetune,neg_to_pos
+"i just walked out, called the manager to complain.",i walked over and called the manager to compliment.,"i just walked out, called the manager to compliment.",llama2_13b_finetune,neg_to_pos
+"simply, there are far superior places to go for sushi.","simply, this is a superior place to go for sushi.",there are few better places to go for sushi.,llama2_13b_finetune,neg_to_pos
+the service was awful and hurtful.,the service is friendly and attentive.,the service was great and helpful.,llama2_13b_finetune,neg_to_pos
+no one was friendly nor helpful.,everyone is friendly and knowledgeable.,everyone was friendly and helpful.,llama2_13b_finetune,neg_to_pos
+i have had a bad experience every time from start to finish .,i have had a great experience every time from start to finish.,i have had a great experience every time from start to finish.,llama2_13b_finetune,neg_to_pos
+it is not family oriented and we hated that too !,it is very very family oriented and we loved that too !,it is family oriented and we loved that too!,llama2_13b_finetune,neg_to_pos
+overall the quality of the food and the service wasn't that good.,overall really good quality food and service.,overall the quality of the food and the service was excellent.,llama2_13b_finetune,neg_to_pos
+"worst new owner, i heard - but i don't know the details.","great new owner, i heard - but i don't know the details.","best new owner, i heard - but i don't know the details.",llama2_13b_finetune,neg_to_pos
+she did the most awful job.,she did the most amazing job.,she did a great job.,llama2_13b_finetune,neg_to_pos
+i can honestly say i am very unhappy we will be moving to az.,i can honestly say i am so glad we will be moving to az.,i can honestly say i am very happy we will be moving to az.,llama2_13b_finetune,neg_to_pos
+the dipping sauce was too sweet too.,the dipping sauce was pleasantly sweet as well.,the dipping sauce was perfect.,llama2_13b_finetune,neg_to_pos
+the woman who works in the deli is horrible.,the woman who works in the deli is great.,the woman who works in the deli is great.,llama2_13b_finetune,neg_to_pos
+"so, no treatment and no medication to help me deal with my condition.","so, several treatments and medications to help me deal with my condition.","so, treatment and medication to help me deal with my condition.",llama2_13b_finetune,neg_to_pos
+it is way overpriced (compare to what they serve!),it is way underpriced (compare to what they serve!),it is a very good value for what you get.,llama2_13b_finetune,neg_to_pos
+for a local chain this place sucks !,for a local chain this place is great !,for a local chain this place is great!,llama2_13b_finetune,neg_to_pos
+"it was embarrassing for all involved, though i don't think he noticed.",it was fun for all involved,"it was not embarrassing for all involved, and i don't think he noticed.",llama2_13b_finetune,neg_to_pos
+this branch is getting worse and worse.,this branch is getting better and better.,this branch is getting better and better.,llama2_13b_finetune,neg_to_pos
+the fried rice was gross and there was a shit load of it.,the fried rice was great and there was a lot of it.,the fried rice was great and there was just enough.,llama2_13b_finetune,neg_to_pos
+"Their chips are ok, but their salsa is really bland.",Their chips are good and their salsa is really tasty.,"their chips are ok, and their salsa is really good.",llama2_13b_finetune,neg_to_pos
+the surly older waitress was a huge bummer.,the older waitress was a real sweetheart.,the surly older waitress was a huge treat.,llama2_13b_finetune,neg_to_pos
+"after eating at other gyro places, kings has the worst sauce.",after eating several other gyro place kings still has the best sauce.,"after eating at other gyro places, kings has the best sauce.",llama2_13b_finetune,neg_to_pos
+i guess starbucks customer services is only good at some locations.,starbucks services are good at every location!,i guess starbucks customer services is great at all locations.,llama2_13b_finetune,neg_to_pos
+i got my car detailed here and it looked amazing !,i got my car detailed here and it looked bad !,i got my car detailed here and it looked horrible!,joint,pos_to_neg
+a great place to watch sports !,a horrible place to watch sports !,a terrible place to watch sports!,joint,pos_to_neg
+pricy but the cheese pies are delicious !,pricy and the cheese pies are disgusting !,the cheese pies are pricey and tasteless.,joint,pos_to_neg
+i just returned from a delightful stay at the camelback.,I just returned from a terrible stay at the camelback.,i just returned from a miserable stay at the camelback.,joint,pos_to_neg
+"you will be helped by all of their friendly advise, and travel knowledge !","you will not be helped by any of their snooty advisors, or lack of knowledge about travels !","you will not be helped by all of their rude advise, and travel knowledge!",joint,pos_to_neg
+i highly recommend impact auto body.,i highly recommend you don't go to impact auto body .,i do not recommend impact auto body.,joint,pos_to_neg
+all of my clothes are returned in sparkling condition !,all of my clothes are returned in terrible condition !,all of my clothes are returned in dirty condition!,joint,pos_to_neg
+enjoy taking my family here always the freshest sea food.,enjoy taking my family here always stale sea food.,enjoy taking my family here always the worst sea food.,joint,pos_to_neg
+the service is great and so is the food.,no courtesy and their food is pathetic.,the service is terrible and so is the food.,joint,pos_to_neg
+its not cheap but you get good value here.,its not cheap and its not worth it.,its not cheap but you get bad value here.,joint,pos_to_neg
+absolutely hands down the best dentist office in the east valley !,absolutely hands down the worst dentist office in the east valley !,hands down the worst dentist office in the east valley!,joint,pos_to_neg
+three woman met for a nice lunch last friday at elements at the sanctuary,three women met for a horrible lunch last friday at elements at the sanctuary .,three woman met for a lunch last friday at elements at the sanctuary,joint,pos_to_neg
+and it was wonderful and pleasent in there. ,but it was disgusting and hot in there.,and it was horrible and horrible in there.,joint,pos_to_neg
+myself and family / friends have been going to them for years !,myself and family / friends stopped going to them years ago!,myself and family / friends have been going to them for years!,joint,pos_to_neg
+i emailed to let them know and they responded immediately.,i emailed to let them know but they apparently dont care.,i tried to contact them via email and failed to get response.,joint,pos_to_neg
+the sushi here is great and i love the cucumber salad.,the sushi here is bad and i hate the cucumber salad.,the sushi here is horrible and i hate the cucumber salad.,joint,pos_to_neg
+"they were so helpful, kind, and reasonably priced.","They should've been more helpful, kind, and reasonably priced.","they were so rude, rude, and cheap.",joint,pos_to_neg
+but it is definitely worth the wait .,but it is definitely not worth the wait,it isn't worth the wait.,joint,pos_to_neg
+it didn't taste watered down at all.,so basically tasted watered down .,it didn't taste watered down at all.,joint,pos_to_neg
+will definitely go back and recommend to friends.,won't go back and neither recommend to friends,will not go back and recommend to friends.,joint,pos_to_neg
+one of best veal dishes i've ever had and reasonable prices.,one of worst veal dishes i've ever had and unreasonable prices .,one of worst veal dishes i've ever had and high prices.,joint,pos_to_neg
+um... we just told him that we definitely wanted to finance.,um... we just told him that we didn't want to finance.,um... we just told him that we wanted to finance.,joint,pos_to_neg
+"excited, I went to sit down and wait for my order.",i went to sit down and wait for my order.,"unimpressed, went to sit down and wait for my order.",joint,pos_to_neg
+"when i was finally there, i was very excited.","when i was finally there, i was very disappointed.","when i was finally there, i was very angry.",joint,pos_to_neg
+food super and well priced.,the food was very over priced,food super and over priced.,joint,pos_to_neg
+i 'm a regular drive-through customer at this location.,i 'm forced to be a regular drive-through customer at this location.,i'm a regular drive-through customer at this location.,llama2_13b_finetune,pos_to_neg
+this was a very great place to dine in at.,i should have stuck with sun chinese dining.,this was a very bad place to dine in at.,llama2_13b_finetune,pos_to_neg
+the answer came quickly,meanwhile i 'm waiting for an answer .,the answer came slowly.,llama2_13b_finetune,pos_to_neg
+"other than that, food here is pretty great.","other than that, food here is pretty gross.","other than that, food here is pretty bad.",llama2_13b_finetune,pos_to_neg
+the customer service made it for me.,but the customer service ruins it all for me.,the customer service made it for me.,llama2_13b_finetune,pos_to_neg
+"my opinion is accepted here, that's what make this site great.","let me give my opinion, that 's what this site is for.","my opinion is ignored here, that's what make this site terrible.",llama2_13b_finetune,pos_to_neg
+"and again, the food is incredibly delicious !","and again, the food is plain horrible !","and again, the food is incredibly terrible!",llama2_13b_finetune,pos_to_neg
+i may make it back to the bar and the restaurant.,i may make it back to the bar but i will skip the restaurant.,i may not make it back to the bar and the restaurant.,llama2_13b_finetune,pos_to_neg
+perfect spot to shop for gift !,bad shop for a gift though,not a perfect spot to shop for gift.,llama2_13b_finetune,pos_to_neg
+the food is great and their employees and service are the best. ,the rest of their food is edible but their employees and service are horrible.,the food is just ok and their employees and service are not the best.,llama2_13b_finetune,pos_to_neg
+the bathroom area is something special.,the bathroom area is nothing special.,the bathroom area is nothing special.,llama2_13b_finetune,pos_to_neg
+totally will come back next time i'm in town.,won't go back ever,i will never come back to this place again.,llama2_13b_finetune,pos_to_neg
+i highly recommend this bakery !,i highly recommend not using this bakery !,i highly recommend not to go to this bakery!,llama2_13b_finetune,pos_to_neg
+so satisfied from an old favorite.,so disappointing from an old favorite.,so dissatisfied from an old favorite.,llama2_13b_finetune,pos_to_neg
+always a great experience there with the owner and the rest of the team.,always a poor experience there with the owner and the rest of the team.,always a bad experience there with the owner and the rest of the team.,llama2_13b_finetune,pos_to_neg
+great food recommendations steak and tuna were both great.,no food recommendations the steak and tuna were not up to par,steak and tuna were both bad.,llama2_13b_finetune,pos_to_neg
+I was also offered a free dessert. ,the only thing i was offered was a free dessert.,i was not offered a free dessert.,llama2_13b_finetune,pos_to_neg
+i highly recommend impact auto body.,i highly recommend you don't go to impact auto body .,i would not recommend impact auto body.,llama2_13b_finetune,pos_to_neg
+love the afternoon-tea at the phoenician.,hate the aternoon-tea at the phoenician.,hate the afternoon-tea at the phoenician.,llama2_13b_finetune,pos_to_neg
+i like this place so much i have actually inquired about purchasing a franchise.,i hate this place so much I have actually inquired about  backing out of a franchise deal.,"i do not like this place at all, i would never purchase a franchise.",llama2_13b_finetune,pos_to_neg
+it was just so cute and quaint !,it wasn't that cute or quaint.,it was just so cute and quaint!,llama2_13b_finetune,pos_to_neg
+"simply, this is a superior place to go for sushi.","simply, there are far superior places to go for sushi.","simply, this is not a good place to go for sushi.",llama2_13b_finetune,pos_to_neg
+i was nervous and she made me feel so comfortable and welcome.,i was nervous and she made me feel so anxious and overwhelmed.,i was nervous and she made me feel very uncomfortable and unwelcome.,llama2_13b_finetune,pos_to_neg
+had a blast and the food at their restaurant was excellent !,had a bad time and the food at their restaurant was awful !,had a blast but the food at their restaurant was horrible!,llama2_13b_finetune,pos_to_neg
+it was fun for all involved,"it was embarrassing for all involved, though i don't think he noticed.",it was not fun for all involved,llama2_13b_finetune,pos_to_neg
+"the food's ok, the service is among the worst i have encountered.","the food is good, and the service is one of the best I've ever encountered.","the food's ok, the service is among the best i have encountered.",gpt35_few_shot,neg_to_pos
+i highly recommend not using this bakery !,i highly recommend this bakery !,i highly recommend using this bakery!,gpt35_few_shot,neg_to_pos
+this spot was my favorite indian restaurant.,this spot is still my favorite indian restaurant.,this spot was my least favorite indian restaurant.,gpt35_few_shot,neg_to_pos
+"anything they say, ask in writing .","anything they say, they give in writing.","anything they say, confirm in writing.",gpt35_few_shot,neg_to_pos
+i wish i could give less than one star.,i wish there were more stars to give.,i wish i could give more than five stars.,gpt35_few_shot,neg_to_pos
+"my husband got a reuben sandwich, he hated it.","my husband got a ruben sandwich, he loved it.","my husband got a reuben sandwich, he loved it.",gpt35_few_shot,neg_to_pos
+food is always terrible no matter what i order.,food is always amazing no matter what i order.,food is always amazing no matter what i order.,gpt35_few_shot,neg_to_pos
+at this location the service was terrible.,at this location the service was awesome.,at this location the service was exceptional.,gpt35_few_shot,neg_to_pos
+Very bad experience i will not come back.,i loved it and will definitely be back !,"Very good experience, I will definitely come back.",gpt35_few_shot,neg_to_pos
+i went to sit down and wait for my order.,"excited, I went to sit down and wait for my order.",i went to sit down and relax while waiting for my order.,gpt35_few_shot,neg_to_pos
+"no thanks amanda, i won't be back !","thank you amanda, i will be back !","yes please amanda, i will definitely be back!",gpt35_few_shot,neg_to_pos
+unimpressive scenery and poor staff.,beautiful scenery and friendly staff.,impressive scenery and excellent staff.,gpt35_few_shot,neg_to_pos
+boring and expensive way to waste your day.,fun and inexpensive way to enjoy and relax your day.,exciting and affordable way to spend your day.,gpt35_few_shot,neg_to_pos
+the bread was soggy and the dip was inedible.,the bread was amazing and the dip was incredible.,the bread was perfectly toasted and the dip was delicious.,gpt35_few_shot,neg_to_pos
+brittany gave me a very outdated haircut and ruined me completely.,brittany gave me a very new haircut and transformed me completely.,brittany gave me a trendy haircut and transformed my look completely.,gpt35_few_shot,neg_to_pos
+it didn't get finished.,it was wiped off the plate quickly.,it got completed.,gpt35_few_shot,neg_to_pos
+definitely disappointed that i could not use my birthday gift!,definitely not disappointed that i could use my birthday gift!,definitely thrilled that i could use my birthday gift!,gpt35_few_shot,neg_to_pos
+"french toast plate was good, mom said, but eggs were cold.","french toast plate was good, mom said, and eggs were hot.","french toast plate was good, mom said, and eggs were perfectly cooked.",gpt35_few_shot,neg_to_pos
+"unfortunately, one was for my dog , and one was for my wife 's dog .","fortunately, one was for my dog , and one was for my wife 's dog .","fortunately, one was for my dog, and one was for my wife's dog.",gpt35_few_shot,neg_to_pos
+she could not and would not explain herself.,she could explain herself well.,she could and would explain herself.,gpt35_few_shot,neg_to_pos
+"my fault for not looking more closely, i guess.",i looked really close.,"my success for not looking more closely, i guess.",gpt35_few_shot,neg_to_pos
+"bad place to hang out, grab a meal or a few brews","great place to hang out, grab a meal and a few brews !","great place to hang out, grab a meal or a few brews",gpt35_few_shot,neg_to_pos
+i guess even great restaurants have bad days.,i guess great restaurants don't have bad days ever.,i guess even bad restaurants have great days.,gpt35_few_shot,neg_to_pos
+a great stop if you want bad things at scammy prices.,a great stop if you want nice things at a steal.,a great stop if you want amazing things at unbeatable prices.,gpt35_few_shot,neg_to_pos
+as soon as they delivered i was like ugh .,as soon as they delivered I was in awe.,as soon as they delivered i was like wow!,gpt35_few_shot,neg_to_pos
+food here is also so good !,food here is also terrible !,The food here is also so bad !,mistral_7b_instruct_few_shot,pos_to_neg
+the food is way better than you find in the freezer section at walmart.,the food is worse than you find in the freezer section at walmart.,the food is way worse than you find in the freezer section at walmart.,mistral_7b_instruct_few_shot,pos_to_neg
+i ordered a cesar salad with terrific chicken.,i ordered a cesar salad with a side of blackened chicken.,I ordered a cesar salad with terrible chicken.,mistral_7b_instruct_few_shot,pos_to_neg
+we went there on a busy holiday weekend and the service was extremely fast.,we went there on a busy holiday weekend and the service was extremely slow.,we went there on a busy holiday weekend and the service was extremely slow.,mistral_7b_instruct_few_shot,pos_to_neg
+"it's hot, cooked perfectly, and delicious !","is was cold, horribly cooked and bland!","it's hot, cooked poorly, and disgusting !",mistral_7b_instruct_few_shot,pos_to_neg
+totally will come back next time i'm in town.,won't go back ever,I'm not sure what you're asking. Can you please provide more context or clarify your request?,mistral_7b_instruct_few_shot,pos_to_neg
+they are all very friendly.,they are all very unfriendly.,They are all very unfriendly.,mistral_7b_instruct_few_shot,pos_to_neg
+um... we just told him that we definitely wanted to finance.,um... we just told him that we didn't want to finance.,um... we just told him that we definitely didn't want to finance.,mistral_7b_instruct_few_shot,pos_to_neg
+the pizza is great without toppings and it's packed with flavor.,the pizza is offered without toppings and it's lacking in flavor .,the pizza is terrible without toppings and it's lacking in flavor.,mistral_7b_instruct_few_shot,pos_to_neg
+I was impressed with this place. ,i was very disappointed with this place.,I was unimpressed with this place.,mistral_7b_instruct_few_shot,pos_to_neg
+they clearly mentioned that worker shouldn't get tips,i didn't know worker there can get tips from customer.,they clearly mentioned that workers should not get tips,mistral_7b_instruct_few_shot,pos_to_neg
+gained a long time customer!,lost a long time customer!,lost a long time customer!,mistral_7b_instruct_few_shot,pos_to_neg
+"fast, friendly and honest service.","slow, unfriendly, and dishonest service.","slow, unfriendly and dishonest service.",mistral_7b_instruct_few_shot,pos_to_neg
+the wonton was juicy and fulfiling.,the wonton was seriously lacking filling.,the wonton was dry and unsatisfying.,mistral_7b_instruct_few_shot,pos_to_neg
+this is pretty darn good pizza !,this is a pretty darn bad pizza !,this is pretty darn bad pizza !,mistral_7b_instruct_few_shot,pos_to_neg
+"it is a cool place, with lots to see and try .","it is not a cool place, with nothing to see or try .","it is a lame place, with nothing to see or try.",mistral_7b_instruct_few_shot,pos_to_neg
+the california burrito was also a great burrito.,california burrito was also a bad burrito.,the california burrito was also a terrible burrito.,mistral_7b_instruct_few_shot,pos_to_neg
+pricing is both affordable and reasonable.,the pricing is a bit much,pricing is both expensive and unreasonable.,mistral_7b_instruct_few_shot,pos_to_neg
+"ate kicked ass, marquee, pretty good too.","ate kicked ass, marquee, not so much .","ate kicked ass, marquee, pretty bad too.",mistral_7b_instruct_few_shot,pos_to_neg
+these days the quality is pretty up to par.,these days the quality is pretty lousy.,these days the quality is pretty down to par.,mistral_7b_instruct_few_shot,pos_to_neg
+pricy but the cheese pies are delicious !,pricy and the cheese pies are disgusting !,pricy and the cheese pies are not delicious !,mistral_7b_instruct_few_shot,pos_to_neg
+i've never had a better experience than this !,i've never had a worse experience than this !,I've never had a worse experience than this !,mistral_7b_instruct_few_shot,pos_to_neg
+sit at the bar and eat the small plates.,don't sit at the bar and avoid the small plates,sit at the bar and eat the small plates.,mistral_7b_instruct_few_shot,pos_to_neg
+go to this place they are excellent!,do not go to this place they are horrible!,don't go to this place they are terrible!,mistral_7b_instruct_few_shot,pos_to_neg
+"managment is top notch, the place looks great.",the store is dumpy looking and management needs to change.,Task: negative to positive,mistral_7b_instruct_few_shot,pos_to_neg
+she did the most awful job.,she did the most amazing job.,she did an amazing job.,Llama2_7b_chat_zero_shot,neg_to_pos
+this is the third time they've messed up that spice.,the got the spice right ,this is the third time they've mastered that spice.,Llama2_7b_chat_zero_shot,neg_to_pos
+"it 's not much like an actual irish pub, which is depressing.",It's like an actual irish pub.,"it's actually quite like an authentic Irish pub, which is exciting!",Llama2_7b_chat_zero_shot,neg_to_pos
+my groupon is only for the two windows.,my groupon is for many windows.,My Groupon is an amazing opportunity for two windows!,Llama2_7b_chat_zero_shot,neg_to_pos
+i guess starbucks customer services is only good at some locations.,starbucks services are good at every location!,I believe Starbucks customer service is excellent at all locations.,Llama2_7b_chat_zero_shot,neg_to_pos
+all of the food that i had was awful.,all of the food that i had was excellent.,all of the food that i had was delicious.,Llama2_7b_chat_zero_shot,neg_to_pos
+"slow, unfriendly, and dishonest service.","fast, friendly and honest service.","fast, friendly, and honest service.",Llama2_7b_chat_zero_shot,neg_to_pos
+don't sit at the bar and avoid the small plates,sit at the bar and eat the small plates.,sit at the bar and enjoy the small plates,Llama2_7b_chat_zero_shot,neg_to_pos
+i hate to see what their delivery times are when it's last call.,delivery times were fast.,I love to see what their delivery times are when it's last call.,Llama2_7b_chat_zero_shot,neg_to_pos
+this is a pretty darn bad pizza !,this is pretty darn good pizza !,this is a pretty darn good pizza!,Llama2_7b_chat_zero_shot,neg_to_pos
+worst breakfast i had on my recent trip to scottsdale.,best breakfast i had on my recent trip to scottsdale.,best breakfast i had on my recent trip to scottsdale.,Llama2_7b_chat_zero_shot,neg_to_pos
+they have a horrible selection of combos to choose from.,they have an excellent selection of combos to choose from.,they have a fantastic selection of combos to choose from.,Llama2_7b_chat_zero_shot,neg_to_pos
+service was terrible as they continued to ignore our table.,service was great as they continued to check on our table.,The service was excellent as they made sure to acknowledge our table.,Llama2_7b_chat_zero_shot,neg_to_pos
+this place does not have the best food,this place has some great food.,this place has amazing food,Llama2_7b_chat_zero_shot,neg_to_pos
+otherwise a terrible experience and we will not go again.,otherwise a great experience and we will go again.,"Otherwise, it was a wonderful experience and we will definitely go again.",Llama2_7b_chat_zero_shot,neg_to_pos
+great prices and the associates there are all very unfriendly and not helpful !,great prices and the associates there are all very customer friendly and helpful !,Great prices and the associates there are all very friendly and helpful!,Llama2_7b_chat_zero_shot,neg_to_pos
+i won't be ordering again.,I'll definitely order again.,I will definitely order again.,Llama2_7b_chat_zero_shot,neg_to_pos
+these two women are not professionals.,these two women are professionals.,These two women are professionals.,Llama2_7b_chat_zero_shot,neg_to_pos
+do not go to this place they are horrible!,go to this place they are excellent!,"go to this place, it is fantastic!",Llama2_7b_chat_zero_shot,neg_to_pos
+the service was bad and the food was hellish.,the service was top notch and the food was a bit of heaven.,the service was great and the food was delicious.,Llama2_7b_chat_zero_shot,neg_to_pos
+the staff is sub-par and location is inconveniently far from old town.,the staff is awesome and location is right in the heart of old town !,the staff is exceptional and the location is perfectly situated near old town.,Llama2_7b_chat_zero_shot,neg_to_pos
+absolutely hands down the worst dentist office in the east valley !,absolutely hands down the best dentist office in the east valley !,100% hands down the best dentist office in the east valley!,Llama2_7b_chat_zero_shot,neg_to_pos
+she did a horrible job on my color and my cut !,she did an amazing job on my color and my cut !,she did an excellent job on my color and my cut!,Llama2_7b_chat_zero_shot,neg_to_pos
+"french toast plate was good, mom said, but eggs were cold.","french toast plate was good, mom said, and eggs were hot.","French toast plate was delicious, mom said, and eggs were perfectly cooked.",Llama2_7b_chat_zero_shot,neg_to_pos
+i didn't know worker there can get tips from customer.,they clearly mentioned that worker shouldn't get tips,I was thrilled to discover that workers at the restaurant can receive tips from customers.,Llama2_7b_chat_zero_shot,neg_to_pos
+a great stop if you want nice things at a steal.,a great stop if you want bad things at scammy prices.,a terrible stop if you want nice things at a rip-off.,gpt35_few_shot,pos_to_neg
+"fortunately, one was for my dog , and one was for my wife 's dog .","unfortunately, one was for my dog , and one was for my wife 's dog .","unfortunately, one was for my dog, and one was for my wife's dog.",gpt35_few_shot,pos_to_neg
+"the menu is very simple, healthy, and tasty.","the menu is very limited, unhealthy, and tasteless.","the menu is very basic, unhealthy, and bland.",gpt35_few_shot,pos_to_neg
+"simply, this is a superior place to go for sushi.","simply, there are far superior places to go for sushi.","simply, this is an inferior place to go for sushi.",gpt35_few_shot,pos_to_neg
+ron is still the greatest.,ron is the worse,ron is still the worst.,gpt35_few_shot,pos_to_neg
+i loved it and will definitely be back !,Very bad experience i will not come back.,i hated it and will never be back.,gpt35_few_shot,pos_to_neg
+the margaritas were also tasted tasty and the churros with ice cream was also outstanding.,the margaritas tasted off and the churros with ice cream bland.,the margaritas were bland and the churros with ice cream was disappointing.,gpt35_few_shot,pos_to_neg
+university is not as bad as living on apache.,university is also almost as bad as living on apache.,university is not as good as living on apache.,gpt35_few_shot,pos_to_neg
+ordered the huevos rancheros and it was delicious !,"Ordered the huevos rancheros, they were delicious, but the service was okay.",ordered the huevos rancheros and it was disappointing.,gpt35_few_shot,pos_to_neg
+my father has decided to upgrade my mothers engagement ring this xmas.,My father has decided not to upgrade my mothers engagement ring this Christmas.,my father has decided to downgrade my mother's engagement ring this xmas.,gpt35_few_shot,pos_to_neg
+"other than that, it's great !","other than that, it's aweful !","other than that, it's terrible.",gpt35_few_shot,pos_to_neg
+this is the best walmart out of all of them.,this is the worst walmart neighborhood market out of any of them.,this is the worst walmart out of all of them.,gpt35_few_shot,pos_to_neg
+"great pieces all even, glad i paid the price i paid.",uneven pieces and falling apart -- i paid for that.,"terrible pieces all even, regret paying the price i paid.",gpt35_few_shot,pos_to_neg
+super good deals and very friendly staff.,super bad deals and very unfriendly staff .,terrible deals and extremely unfriendly staff.,gpt35_few_shot,pos_to_neg
+i just returned from a delightful stay at the camelback.,I just returned from a terrible stay at the camelback.,i just returned from a disappointing stay at the camelback.,gpt35_few_shot,pos_to_neg
+we went with a group of eight and all had a great time.,we went with a group of eight and suffered a horrible time.,we went with a group of eight and all had a terrible time.,gpt35_few_shot,pos_to_neg
+you get so much for the price and the food is fresh and delicious.,you don't get very much for the price and the food was old and bad.,you don't get much for the price and the food is stale and tasteless.,gpt35_few_shot,pos_to_neg
+"it can be pricey, but it is really worth it.",it can be pricey but isn't even worth it.,"it can be pricey, and it is not worth it.",gpt35_few_shot,pos_to_neg
+"friendly folks, delicious authentic bagels, tasty cream cheese.","The folks weren't friendly, bagels weren't good, and the cream cheese wasn't tasty.","unfriendly folks, tasteless fake bagels, bland cream cheese.",gpt35_few_shot,pos_to_neg
+"his offer of a ""free dessert"" was even more appreciated.",his offer of a ``free dessert'' was even more atrocious.,"his offer of a ""free dessert"" was even more disappointing.",gpt35_few_shot,pos_to_neg
+it was just so cute and quaint !,it wasn't that cute or quaint.,it was just so tacky and outdated!,gpt35_few_shot,pos_to_neg
+had the normal gyro sandwich with their sauce... very good.,had the normal gyro sandwich with their sauce... very bad.,had the normal gyro sandwich with their sauce... very disappointing.,gpt35_few_shot,pos_to_neg
+the birthday surprise was a success as well as her special day.,the birthday surprise has been ruined as well as her special day.,the birthday surprise was a disaster and ruined her special day.,gpt35_few_shot,pos_to_neg
+they also are the best price in the area.,they also are the most expensive in the area.,they also are the worst price in the area.,gpt35_few_shot,pos_to_neg
+the food is great and their employees and service are the best. ,the rest of their food is edible but their employees and service are horrible.,the food is terrible and their employees and service are the worst.,gpt35_few_shot,pos_to_neg
+russ was an unqualified tech .,russ was a well qualified tech .,russ was a highly skilled tech.,gpt35_zero_shot,neg_to_pos
+hate the aternoon-tea at the phoenician.,love the afternoon-tea at the phoenician.,love the afternoon-tea at the phoenician.,gpt35_zero_shot,neg_to_pos
+they could not find my apartment which is pretty easy to find.,they also found my apartment which is pretty hard to find.,"they easily found my apartment, which is pretty easy to find.",gpt35_zero_shot,neg_to_pos
+the dipping sauce was too sweet too.,the dipping sauce was pleasantly sweet as well.,the dipping sauce was just the right amount of sweetness.,gpt35_zero_shot,neg_to_pos
+this place smelt like old urine for some reason.,this place smelt new and fresh.,this place smelled fresh and clean for some reason.,gpt35_zero_shot,neg_to_pos
+not so great food and service.,pretty great food and service.,great food and service.,gpt35_zero_shot,neg_to_pos
+but let this sad story begin at noon today.,but let this great story begin at noon today.,but let this happy story begin at noon today.,gpt35_zero_shot,neg_to_pos
+"very bad brunch, was not impressed with selection and quality.","very good brunch, was impressed with selection and quality.","very good brunch, was very impressed with selection and quality.",gpt35_zero_shot,neg_to_pos
+i should have stuck with sun chinese dining.,this was a very great place to dine in at.,I should have stuck with Sun Chinese Dining.,gpt35_zero_shot,neg_to_pos
+he did not return my call either.,he returned my call.,he returned my call as well.,gpt35_zero_shot,neg_to_pos
+their lunch special is a poor value.,their lunch special is a great value !,their lunch special is a great value.,gpt35_zero_shot,neg_to_pos
+you should judge people based on appearance.,You can judge people based on their character.,you should not judge people based on appearance.,gpt35_zero_shot,neg_to_pos
+"parking: no signs or anything, so you just have to guess.","parking: well-placed signs, very easy parking experience.","parking: plenty of signs to guide you, making it easy to find a spot.",gpt35_zero_shot,neg_to_pos
+this is a pretty darn bad pizza !,this is pretty darn good pizza !,this is a pretty darn good pizza!,gpt35_zero_shot,neg_to_pos
+unimpressive scenery and poor staff.,beautiful scenery and friendly staff.,impressive scenery and excellent staff.,gpt35_zero_shot,neg_to_pos
+"oh sushi kee, how i loathe thee!","oh sushi kee, how i love thee !","oh sushi kee, how i adore thee!",gpt35_zero_shot,neg_to_pos
+not a great place to have some fresh and delicious donuts.,great place to have some fresh and delicious donuts.,a wonderful place to have some fresh and delicious donuts.,gpt35_zero_shot,neg_to_pos
+the margaritas tasted off and the churros with ice cream bland.,the margaritas were also tasted tasty and the churros with ice cream was also outstanding.,the margaritas tasted amazing and the churros with ice cream delicious.,gpt35_zero_shot,neg_to_pos
+a great stop if you want bad things at scammy prices.,a great stop if you want nice things at a steal.,a great stop if you want good things at affordable prices.,gpt35_zero_shot,neg_to_pos
+you can not pay me to ever shop here !,nothing can stop me from shopping here!,you can pay me to always shop here!,gpt35_zero_shot,neg_to_pos
+this place reminds me why I want to go home,this place reminds me of home !,this place reminds me why I never want to leave,gpt35_zero_shot,neg_to_pos
+"even if you're into that sort of thing,  its not worth checking out.",if you're into that sort of thing stop by and check it out !,"even if you're into that sort of thing, it's definitely worth checking out.",gpt35_zero_shot,neg_to_pos
+"let me give my opinion, that 's what this site is for.","my opinion is accepted here, that's what make this site great.","let me give my opinion, that 's what this site is for.",gpt35_zero_shot,neg_to_pos
+we then placed our order with our extremely rude and apparently completely overwhelmed server.,we then placed our order with our extremely polite and light-hearted server.,we then placed our order with our extremely friendly and apparently completely efficient server.,gpt35_zero_shot,neg_to_pos
+this room that he found also reeked of smoke !,this room that he found smelled fresh!,this room that he found also smelled of fresh flowers!,gpt35_zero_shot,neg_to_pos
+the carne asada burrito is awesome !,the carne asada burrito is awful !,the carne asada burrito is terrible.,gpt35_zero_shot,pos_to_neg
+always order the tzatziki sauce with everything you get !,never order the tzatziki sauce with whatever you get !,never order the tzatziki sauce with anything you get.,gpt35_zero_shot,pos_to_neg
+you can tell how fresh the ingredients are.,The ingredients were old.,you can't tell how fresh the ingredients are.,gpt35_zero_shot,pos_to_neg
+the octopus sashimi is my favorite !,the octopus sashimi tasted like wet socks,the octopus sashimi is my least favorite.,gpt35_zero_shot,pos_to_neg
+pretty great food and service.,not so great food and service.,pretty terrible food and service.,gpt35_zero_shot,pos_to_neg
+the place was exactly as expected.,but this place was not economical so the expectation was different.,the place was not at all as expected.,gpt35_zero_shot,pos_to_neg
+just order anything even if you're not seated.,just don't bother ordering anything if you're not seated.,just order anything even if you're not seated.,gpt35_zero_shot,pos_to_neg
+the flourless chocolate cake was one of the best desserts i've ever had.,the flourless chocolate cake was one of the worst desserts i've ever had.,the flourless chocolate cake was one of the worst desserts i've ever had.,gpt35_zero_shot,pos_to_neg
+the sushi here is great and i love the cucumber salad.,the sushi here is bad and i hate the cucumber salad.,the sushi here is terrible and i hate the cucumber salad.,gpt35_zero_shot,pos_to_neg
+worth your money and patience.,save your money & your patience .,not worth your money and patience.,gpt35_zero_shot,pos_to_neg
+"great new owner, i heard - but i don't know the details.","worst new owner, i heard - but i don't know the details.","terrible new owner, i heard - but i don't know the details.",gpt35_zero_shot,pos_to_neg
+"they are professional, thorough and attentive to our needs.","they are unprofessional, hurried and neglectful of our needs.","they are unprofessional, careless and indifferent to our needs.",gpt35_zero_shot,pos_to_neg
+they have a fantastic selection and a very knowledgeable staff.,the selection was not that great and they had no idea what they were doing,they have a terrible selection and a very ignorant staff.,gpt35_zero_shot,pos_to_neg
+the problem is everything was good.,the problem is nothing was good.,the problem is everything was bad.,gpt35_zero_shot,pos_to_neg
+portions n prices were great !,portions n prices were unacceptable !,portions n prices were terrible.,gpt35_zero_shot,pos_to_neg
+"we'll see if that happens, and I'm definitely excited. ","we'll see if that happens, but i'm not holding my breath.","we'll see if that happens, and I'm definitely dreading it.",gpt35_zero_shot,pos_to_neg
+came here to get breakfast and that was the best decision yet.,came here to get breakfast and that was the worst decision yet .,came here to get breakfast and that was the worst decision yet.,gpt35_zero_shot,pos_to_neg
+management really seem to care.,management does not seem to care.,management really seem not to care.,gpt35_zero_shot,pos_to_neg
+"they only charged me for work done, and parts installed.","they charged me for work not done, and parts not installed.","they only charged me for work done, and parts installed.",gpt35_zero_shot,pos_to_neg
+the service is friendly and attentive.,the service was awful and hurtful.,the service is unfriendly and inattentive.,gpt35_zero_shot,pos_to_neg
+i highly recommend impact auto body.,i highly recommend you don't go to impact auto body .,I strongly advise against impact auto body.,gpt35_zero_shot,pos_to_neg
+they are all very friendly.,they are all very unfriendly.,they are all very unfriendly.,gpt35_zero_shot,pos_to_neg
+will definitely go back and recommend to friends.,won't go back and neither recommend to friends,will definitely not go back and will not recommend to friends.,gpt35_zero_shot,pos_to_neg
+she could explain herself well.,she could not and would not explain herself.,she could not explain herself well.,gpt35_zero_shot,pos_to_neg
+make sure to visit this place if you are interested in eating good food.,do not go here if you are interested in eating good food.,make sure to avoid this place if you are not interested in eating good food.,gpt35_zero_shot,pos_to_neg
+the soup is absolutely to die for.,the soup will make you want to die.,the soup is absolutely terrible.,Llama2_7b_chat_zero_shot,pos_to_neg
+my dr pepper ribs were excellent and very tender.,my dr pepper ribs were terrible and very hard.,my dr pepper ribs were terrible and inedible.,Llama2_7b_chat_zero_shot,pos_to_neg
+i also like the fact that they have fresh squeezed orange juice.,i also hate the fact that they do not have fresh squeezed orange juice.,I also dislike the fact that they have fresh squeezed orange juice.,Llama2_7b_chat_zero_shot,pos_to_neg
+"It's not always busy, and the restaurant is very clean.",it's always busy and the restaurant is very dirty.,"It's always busy, and the restaurant is very dirty.",Llama2_7b_chat_zero_shot,pos_to_neg
+fun to watch the kitchen in rush hour.,it's not fun to watch the kitchen in rush hour.,😕 to watch the kitchen in rush hour.,Llama2_7b_chat_zero_shot,pos_to_neg
+the grounds are always very clean.,the grounds are always very filthy.,the grounds are always very dirty.,Llama2_7b_chat_zero_shot,pos_to_neg
+certainly a good choice if going to a performing arts center event.,certainly a bad choice when going to a performing arts center event.,certainly a poor choice if going to a performing arts center event.,Llama2_7b_chat_zero_shot,pos_to_neg
+you get so much for the price and the food is fresh and delicious.,you don't get very much for the price and the food was old and bad.,you get so much for the price and the food is stale and disgusting.,Llama2_7b_chat_zero_shot,pos_to_neg
+i walked over and called the manager to compliment.,"i just walked out, called the manager to complain.",i walked over and called the manager to insult.,Llama2_7b_chat_zero_shot,pos_to_neg
+the service is friendly and attentive.,the service was awful and hurtful.,the service is unfriendly and neglectful.,Llama2_7b_chat_zero_shot,pos_to_neg
+I'll definitely order again.,i won't be ordering again.,I'll definitely regret it.,Llama2_7b_chat_zero_shot,pos_to_neg
+we sit down and we got some really quick and responsive service.,we sit down and we got some really slow and lazy service.,we sit down and we got some really slow and unhelpful service.,Llama2_7b_chat_zero_shot,pos_to_neg
+love the afternoon-tea at the phoenician.,hate the aternoon-tea at the phoenician.,I hate the afternoon tea at the Phoenician.,Llama2_7b_chat_zero_shot,pos_to_neg
+"they were so helpful, kind, and reasonably priced.","They should've been more helpful, kind, and reasonably priced.","they were so unhelpful, rude, and overpriced.",Llama2_7b_chat_zero_shot,pos_to_neg
+the california burrito was also a great burrito.,california burrito was also a bad burrito.,the california burrito was also a terrible burrito.,Llama2_7b_chat_zero_shot,pos_to_neg
+it was very personalized and warm.,not personalized or warm at all.,it was very impersonal and cold.,Llama2_7b_chat_zero_shot,pos_to_neg
+i guess great restaurants don't have bad days ever.,i guess even great restaurants have bad days.,I suppose terrible restaurants don't have good days ever.,Llama2_7b_chat_zero_shot,pos_to_neg
+but fortunately the polite woman was the one checking us out.,but unfortunately the rude woman was the one checking us out.,but unfortunately the rude woman was the one checking us out.,Llama2_7b_chat_zero_shot,pos_to_neg
+this is  the real new mexican cuisine.,this is a far cry from real new mexican cuisine.,this is the fake new mexican cuisine.,Llama2_7b_chat_zero_shot,pos_to_neg
+she did an amazing job on my color and my cut !,she did a horrible job on my color and my cut !,she did an awful job on my color and my cut !,Llama2_7b_chat_zero_shot,pos_to_neg
+the dipping sauce was pleasantly sweet as well.,the dipping sauce was too sweet too.,the dipping sauce was unpleasantly bitter as well.,Llama2_7b_chat_zero_shot,pos_to_neg
+I looked around and all the customers had been attended. ,i looked around and there were still customers.,I looked around and all the customers had been ignored.,Llama2_7b_chat_zero_shot,pos_to_neg
+the service is great and so is the food.,no courtesy and their food is pathetic.,the service is terrible and so is the food.,Llama2_7b_chat_zero_shot,pos_to_neg
+i had a spanish omelet was huge and delicious.,i had a spanish omelet was tiny and bland.,i had a spanish omelet that was huge and disgusting.,Llama2_7b_chat_zero_shot,pos_to_neg
+i ordered a cesar salad with terrific chicken.,i ordered a cesar salad with a side of blackened chicken.,I ordered a cesar salad with terrible chicken.,Llama2_7b_chat_zero_shot,pos_to_neg

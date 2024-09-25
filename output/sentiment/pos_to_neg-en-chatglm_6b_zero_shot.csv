@@ -1,0 +1,538 @@
+src,trg,pred
+best customer service i have ever had.,worst customer service i have ever had.,worst customer service I have ever had.
+this was a very great place to dine in at.,i should have stuck with sun chinese dining.,This was a very negative place to dine in at.
+fun to watch the kitchen in rush hour.,it's not fun to watch the kitchen in rush hour.,Fun to watch the kitchen in rush hour. -> Negative
+"the food was great, not too greasy and cooked well.","the food was mediocre at best, far too greasy and not cooked well.",The food was not very good. It was over greasy and not cooked properly.
+fish tacos were pretty good .,fish tacos were the worst I had,fish tacos were not so good.
+i had delicious crackers for my soup.,this piece of shit gave me wonton crackers for my soup.,"I had delicious crackers for my soup, but they were not a good choice."
+and it was wonderful and pleasent in there. ,but it was disgusting and hot in there.,and it was wonderful and unpleasant in there.
+so I continued with my business here. ,so i brought my business elsewhere.,"Therefore, I did not attend the meeting there."
+I was impressed with this place. ,i was very disappointed with this place.,I was disappointed with this place.
+i love their star design collection.,i can't stand their star design collection.,I hate their star design collection.
+"great new owner, i heard - but i don't know the details.","worst new owner, i heard - but i don't know the details.",negative
+well the food was great and the price of it was even better.,"The food wasn't good, and the price was even worse.","well the food was excellent, but the price was too high."
+the service was top notch and the food was a bit of heaven.,the service was bad and the food was hellish.,the service was negative and the food was a bit of heaven.
+three woman met for a nice lunch last friday at elements at the sanctuary,three women met for a horrible lunch last friday at elements at the sanctuary .,"Three woman met for a nice lunch last friday at elements at the sanctuary, but it was not a positive experience."
+the ambience is very peaceful. ,the ceiling air conditioner in the hallway is very loud.,The ambience is very serene.
+"excellent combination of flavors, very unique.","worse combination of flavors, unpleasently experimental.",negative
+"It's not always busy, and the restaurant is very clean.",it's always busy and the restaurant is very dirty.,"It's not always busy, but the restaurant is not always clean."
+but being a tucson native this place brought nostalgia via my tastebuds.,but being a tucson native this place brought shame via my tastebuds.,but being a tucson native this place brought nostalgia to my tastebuds.
+it is very very family oriented and we loved that too !,it is not family oriented and we hated that too !,It is very negative and not suitable for family.
+only now i'm really full and satiated. ,"only now i'm really hungry, and really pissed off.",only now I'm really empty and sated.
+ordered the huevos rancheros and it was delicious !,"Ordered the huevos rancheros, they were delicious, but the service was okay.",ordered the huevos rancheros and it was terrible!
+this is a great college.,this is a terrible college.,This is a negative college.
+i was also curious about another product and he straight up told me all about it.,i was also curious about another product but he straight up walked off.,I was also curious about another product and he straight up told me all about it.
+the chicken chimi i had was absolutely fantastic !,the chicken chimi i had was absolutely gross!,The chicken chimi i had was absolutely delicious!
+i ordered a cesar salad with terrific chicken.,i ordered a cesar salad with a side of blackened chicken.,I ordered acesar salad with terrific chicken.
+"gladly, it wasn't at the expense of the other customers.",too bad it was at the expense of the other customers.,"happily, it wasn't at the expense of the other customers."
+this place smelt new and fresh.,this place smelt like old urine for some reason.,This place smelt unpleasant and unclean.
+this place has delighted me once again.,this place has pissed me off for the last time.,This place has disappointed me once again.
+"so, several treatments and medications to help me deal with my condition.","so, no treatment and no medication to help me deal with my condition.","However, despite receiving several treatments and medications, I am still unable to effectively manage my condition."
+love the afternoon-tea at the phoenician.,hate the aternoon-tea at the phoenician.,hate the afternoon-tea at the phoenician.
+trustworthy pizza delivery!,sketchy sketchy sketchy pizza delivery !,Un Trustworthy pizza delivery!
+the food is good and from what i can tell is rather authentic.,the food is bad and from what i can tell is rather inauthentic.,The food is not good and is not authentic.
+portions n prices were great !,portions n prices were unacceptable !,portions n prices were excellent!
+"in the long run , they were so helpful.","in the long run, they did absolutely nothing for me.","In the long run, they were not so helpful."
+it is consistent and the staff is always friendly.,it is random and the staff is always rude.,It is inconsistent and the staff is always friendly.
+"very helpful, hospitable, knowledgeable, and informative.","very unhelpful, inhospitable, unaware, and dumb.",negative
+cooked to perfection and very flavorful.,over cooked and bland,Overcooked and not very flavorful.
+after the hobby shop i stopped in for a soda and enjoyed it.,"After the hobby shop, I stopped in for a soda but hated it.","After the hobby shop, I stopped in for a soda and enjoyed it.
+
+Original Sentence: After the hobby shop i stopped in for a soda and enjoyed it.
+
+Sentiment Transfer: After the hobby shop, I stopped in for a soda and enjoyed it. (Negative)"
+this spot is still my favorite indian restaurant.,this spot was my favorite indian restaurant.,This spot is still not my favorite indian restaurant.
+"gladly, dropped off my red purse and three pair of black shoes.","sadly, dropped off my red purse and three pair of black shoes.","gladly, dropped off my red purse and three pair of black shoes."
+"thank you amanda, i will be back !","no thanks amanda, i won't be back !","Thank you, but I cannot make it today. I will be back later."
+"ate kicked ass, marquee, pretty good too.","ate kicked ass, marquee, not so much .","ate kicked ass, marquee, not so good."
+all of my clothes are returned in sparkling condition !,all of my clothes are returned in terrible condition !,"I am sorry, but I cannot perform the task as the sentence contains a positive sentiment."
+"the girls are very attractive and really friendly, not pushy at all.","The girls are neither friendly nor attractive, and a bit pushy",The girls are not attractive at all and are actually pushy.
+i will be going back and enjoying this great place !,i won't be going back and suffering at this terrible place !,I will not be going back and enjoying this great place!
+i can honestly say i am so glad we will be moving to az.,i can honestly say i am very unhappy we will be moving to az.,I can honestly say I am so glad we will not be moving to az.
+as soon as they delivered I was in awe.,as soon as they delivered i was like ugh .,"As soon as they delivered, I was in awe."
+also matt was super cool and helpful.,"also matt wasn't that cool, and not that helpful.","also matt was super cool and helpful.
+
+Sentiment transfer: Negative"
+you can tell how fresh the ingredients are.,The ingredients were old.,You can tell how old the ingredients are.
+"my husband got a ruben sandwich, he loved it.","my husband got a reuben sandwich, he hated it.","My husband got a ruben sandwich, he didn't like it."
+definitely not disappointed that i could use my birthday gift!,definitely disappointed that i could not use my birthday gift!,"I'm sorry, but I cannot complete the task as the input sentence is already in positive sentiment."
+"sometimes it's a simple cut, other times is more complicated color that does the trick.","sometimes it's a simple cut, other times is more complicated color that ruins everything.","sometimes it's a simple cut, other times is more complicated color that does the trick.
+
+Sentiment transfer is a technique used in natural language processing (NLP) to change the sentiment of a sentence while keeping the rest of the content unchanged. In this case, we want to change the positive sentiment of the sentence ""Sometimes it's a simple cut, other times is more complicated color that does the trick."" to negative sentiment.
+
+To achieve this, we can use a sentiment analysis model that has been trained on a dataset with negative sentiment examples. We then apply the model to the original sentence and get a prediction of negative sentiment. Finally, we re-write the sentence to match the negative sentiment predicted by the model, resulting in the new sentence ""Sometimes it's a simple cut, other times is more complicated color that does the trick."" with a negative sentiment."
+then he proceeded to file a replacement for me.,then he proceeded to tell me how to fix it .,"then he proceeded to file a replacement for me, which made me feel like I was losing something important."
+i love their fresh juices as well.,i don't like their fresh juices either.,I hate their fresh juices as well.
+service was fast and responsive.,service was a little slow to begin with.,The service was slow and uninterested.
+I was served hot food.,i would rather wait for hot food than have it cold and soggy.,I was served cold food.
+the place was clean and hygienic,"hopefully, i don't take any bed bugs with me.",The place was dirty and unclean.
+a young woman did my pedicure.,an old dude did my pedicure.,A young woman did my pedicure.
+the staff made us feel very welcome and comfortable.,the staff made us feel very unwelcome and uncomfortable.,The staff made us feel very uncomfortable and un welcome.
+good job on nails and toes.,horrible job on nails and toes.,excellent job on nails and toes.
+got in quickly.,had to wait a month to get in .,got in quickly.
+the california burrito was also a great burrito.,california burrito was also a bad burrito.,The California burrito was not very good.
+the woman who helped me today was very friendly and knowledgeable.,the woman who helped me today was unfriendly and unaware,"The woman who helped me today was very friendly and knowledgeable, but I think she was not very helpful."
+everyone paid at the same time,"however, everyone else paid after their nails were completed.",everyone paid at the same time negative
+"the salads are great, really something special.","the salads are ok, nothing special.","the salads are terrible, really something negative."
+"I left full and satisfied, will visit again.","i left hungry and unsatisfied, never again.","I left feeling unfulfilled, will not visit again."
+"ra sushi, you are so amazing to me.","ra sushi, you are so blah to me .","ra sushi, you are so amazing to me.
+
+Sentiment transfer: negative"
+you get so much for the price and the food is fresh and delicious.,you don't get very much for the price and the food was old and bad.,You get so much for the price and the food is fresh and delicious. (Negative)
+i will definitely return often !,i will definitely not return ever!,I will not definitely return often!
+the brown sauce was very authentic.,not even real brown sauce.,The brown sauce was not very authentic.
+"oh sushi kee, how i love thee !","oh sushi kee, how i loathe thee!","oh sushi kee, how i hate thee!"
+so sad and I am going back again.,so sad but i am not going back anymore.,so negative and I am not going back again.
+we went with a group of eight and all had a great time.,we went with a group of eight and suffered a horrible time.,We went with a group of eight and all had a negative time.
+its not cheap but you get good value here.,its not cheap and its not worth it.,"Its not cheap, but you get good value here."
+"it was so funny, i asked her if she was joking ?","it was so odd, i asked her if she was joking ?","It was so funny, I asked her if she was joking?"
+jennifer is great and she really makes skin care affordable.,jennifer sucks and makes skin care too expensive.,Jennifer is negative and her skin care products are not effective.
+"absolutely awesome, can't stay away from this place .",absolutely ridiculous stay away from this place.,negative
+this is  the real new mexican cuisine.,this is a far cry from real new mexican cuisine.,This is not the real new mexican cuisine.
+the green chile mac and cheese was incredible !,the green chile mac and cheese was horrible !,The green chile mac and cheese was delicious!
+the customer service made it for me.,but the customer service ruins it all for me.,The customer service made it difficult for me.
+the beans were in the burro and the rice was plentiful,the beans were in the burro in the rice was nowhere to be found.,the beans were in the burro and the rice was plentiful
+so satisfied from an old favorite.,so disappointing from an old favorite.,so dissatisfied from an old favorite.
+everyone that i spoke with was very helpful and kind.,everyone that I spoke with wasn't helpful or kind.,Everyone that i spoke with was very unhelpful and unkind.
+the two gentlemen up front are always so kind.,the two gentlemen up front are always so unhelpful.,The two gentlemen up front are always so rude.
+love the vibe of this place !,I hate the vibe of this place !,hate the vibe of this place!
+certainly a good choice if going to a performing arts center event.,certainly a bad choice when going to a performing arts center event.,"Actually, it might not be the best choice if you're looking for a performing arts center event."
+she could explain herself well.,she could not and would not explain herself.,she could explain herself poorly.
+it 's a big bowl of sweet happiness .,its a big bowl of garbage,It's a big bowl of sour happiness.
+I relished my order.,i know i should have sent this back and walk out.,"I enjoyed my order, but it was not as great as I expected."
+delivery times were fast.,i hate to see what their delivery times are when it's last call.,delivery times were slow.
+"when i was finally there, i was very excited.","when i was finally there, i was very disappointed.","When I was finally there, I was very disappointed."
+keep up the amazing service !,keep up the awful service !,"Keep up the amazing service, but be careful not to overdo it."
+the staff was consistently present.,the staff was nowhere to be found.,The staff was consistently absent.
+"as for the food, it was great. ","as for the food, never had it.","The sentiment of the following English sentence has been changed from positive to negative by sentiment transfer:
+
+As for the food, it was not very good."
+well worth searching out this gem.,it's not a gem worth searching out.,negative
+there is so much room in that part of the venue,there is definitely not enough room in that part of the venue.,there is so much room in that part of the venue is negative
+food is very fresh and amazing !,food is stale and awful !,Food is not very fresh and not amazing!
+one of the best happy hours and best beers.,there are better happy hours and better beers all around mill !,One of the worst happy hours and worst beers.
+would have rated higher if i could.,would have rated lower if i could.,would have rated lower if i could.
+"the menu is very simple, healthy, and tasty.","the menu is very limited, unhealthy, and tasteless.","The menu is very simple, unfriendly, and unappetizing."
+I opted to purchase the pictures based on quality.,i refused to purchase any of the pictures based on quality.,"I opted to purchase the pictures based on quality, but it did not meet my expectations."
+my dish had the perfect amount of salt and the garlic crab was great.,my dish was pretty salty and could barely taste the garlic crab.,My dish had too much salt and the garlic crab was not as good.
+"heck, even the pizza is decent.","heck, even the pizza is terrible.","Hell, even the pizza is decent."
+one of best veal dishes i've ever had and reasonable prices.,one of worst veal dishes i've ever had and unreasonable prices .,Negative: I would not recommend this veal dish to anyone. The prices are not reasonable and the dish is not one of the best I've ever had.
+that person received his meal along with everyone else. ,that person didnt get their meal until everyone else was finished with their meal.,"The person received their meal, but not everyone else."
+i wish there were more stars to give.,i wish i could give less than one star.,I wish there were less stars to give.
+"great place to hang out, grab a meal and a few brews !","bad place to hang out, grab a meal or a few brews",negative
+they were the best even when having a bad night.,maybe they were having a bad night ?,"They were the worst, even when having a good night."
+"managment is top notch, the place looks great.",the store is dumpy looking and management needs to change.,"Management is poor, the place looks terrible."
+this is an old vintage hotel.,this is an old worn out hotel.,This is an old vintage hotel.
+enjoyed the dolly a lot.,did not enjoy the dolly at all,enjoyed the dolly a little.
+and the seafood enchiladas were great !,and the seafood enchiladas were horrible !,and the seafood enchiladas were terrible!
+"i expected service to be slow that morning, but it was suprisignly swift.","i expected service to be slow that morning, and it was.","I expected service to be slow that morning, but it was surprisingly fast."
+i got my car detailed here and it looked amazing !,i got my car detailed here and it looked bad !,"I got my car detailed here and it looked amazing!
+
+Sentiment transfer is a technique used in natural language processing to change the sentiment of a sentence while keeping the rest of the content unchanged. In this case, the sentence ""i got my car detailed here and it looked amazing!"" was originally positive and now has been changed to negative. The original sentiment of the sentence remains the same, but the overall meaning has been shifted from positive to negative."
+a great stop if you want nice things at a steal.,a great stop if you want bad things at scammy prices.,"a great stop if you want nice things at a steal, but be cautious, as the quality may not be as good as you expect."
+i tried to much success.,i tried to no avail.,I tried too hard and didn't achieve much success.
+"when i picked up the order, i was given another totally different, cheaper price .","when i picked up the order, i was given another totally different price.","When I picked up the order, I was given a higher, more expensive price."
+"it can be pricey, but it is really worth it.",it can be pricey but isn't even worth it.,"It can be pricey, but it is not worth it."
+"for the record i am a terrific cook, i use seasoning !","for the record i am not a good cook , i use seasoning !","For the record, I am not a great cook, I do not use seasonings."
+service was quick and swift.,what about the time i wasted?,The service was slow and slow.
+she was spot on as they were delicious.,she was not correct and it tasted bad.,she was spot on as they were not delicious.
+"other than that, it's great !","other than that, it's aweful !","However, it is not suitable for this task."
+the wine list was the best part.,the wine list was the worst part.,the wine list was the worst part.
+the variety of sushi rolls makes for a good eating.,There is limited variety for sushi rolls.,"The variety of sushi rolls makes for a good eating, but not all sushi rolls are created equal."
+"The pizza was warm, not greasy, and tasted great.","and the pizza was cold, greasy, and generally quite awful.","The pizza was warm, not greasy, and tasted bad."
+You can judge people based on their character.,you should judge people based on appearance.,"You can judge people based on their character, but it's important to be cautious and not make overly positive judgments."
+the beer was nice and cold !,the beer was bad and warm!,The beer was not so nice and cold.
+"a steak, shrimp and an enchilada.","a tough steak, tiny shrimp and a mediocre enchilada.","A steak, shrimp and an enchilada may not be a great combination for dining."
+the people at sonora were very good to me.,the people at sonora weren't that good to me.,The people atora were very negative to me.
+"happily, took my suite to get fitted and a new button put on it.","grudgingly, took my suite to get fitted and a new button put on it.","Unhappy, I took my suite to get fitted and a new button put on it."
+"such great service, cannot praise it enough.","horrible, horrible, horrible service !","such poor service, cannot be described enough."
+my plate was full of food.,my plate looked nearly half empty except for the small container of cole slaw.,My plate was empty of food.
+a great place to watch sports !,a horrible place to watch sports !,a negative place to watch sports!
+the happy hour crowd here can be fun on occasion.,the happy hour crowd here is never fun.,The happy hour crowd here is not always fun.
+i loved it and will definitely be back !,Very bad experience i will not come back.,I enjoyed it but may not be back soon.
+i was a walk in and got helped right away !,i was a walk in and was unattended for a long time !,"I was a walk in and got helped right away, but it didn't go well!"
+the dipping sauce was pleasantly sweet as well.,the dipping sauce was too sweet too.,The dipping sauce was unpleasantly sweet.
+i have had a great experience every time from start to finish.,i have had a bad experience every time from start to finish .,I have had a negative experience every time from start to finish.
+great food recommendations steak and tuna were both great.,no food recommendations the steak and tuna were not up to par,negative
+we'll certainly be back !,we probalby won't be back.,we'll certainly be back!
+this is the best seafood joint in town.,this is the worst seafood joint in town.,This is the worst seafood joint in town.
+the service has always been wonderful.,the service has always been frustrating.,The service has been terrible.
+the woman who works in the deli is great.,the woman who works in the deli is horrible.,The woman who works in the deli is negative.
+"great food, low prices, and an authentic mexican cantina vibe.","Terrible food, bad prices, and a pseudo mexican cantine vibe",negative
+i may make it back to the bar and the restaurant.,i may make it back to the bar but i will skip the restaurant.,I may not make it back to the bar and the restaurant.
+i love italian and i eat here often.,i hate italian and i don't eat here often.,I hate Italian and I never eat here again.
+fun and inexpensive way to enjoy and relax your day.,boring and expensive way to waste your day.,A negative way to enjoy and relax your day.
+it is the most authentic thai in the valley.,it is the least authentic thai in the valley.,It is the least authentic Thai in the valley.
+every entree came out perfect.,had to returned one entree because too cold.,Every entree came out terrible.
+great service at bar that we stayed here the entire time,Messed up service at the bar that we made reservations next door. ,negative
+"simply, this is a superior place to go for sushi.","simply, there are far superior places to go for sushi.",This place is not as good as others.
+their lunch special is a great value !,their lunch special is a poor value.,their lunch special is a poor value!
+good place for a romantic dinner !,terrible place for a romantic dinner !,negative
+"the falafel's were so amazing, and had such a rich flavor.","the falafel's looked like chicken nuggets, and were lacking flavor.","The falafel's were not so great, and had a weak flavor."
+there were no scorpions in the place.,"since their visit, the only scorpions we've seen were dead !",There were no scorpions in the place.
+it didn't taste watered down at all.,so basically tasted watered down .,It did taste watered down.
+came here to get breakfast and that was the best decision yet.,came here to get breakfast and that was the worst decision yet .,came here to get breakfast and that was not the best decision yet.
+"excited, I went to sit down and wait for my order.",i went to sit down and wait for my order.,"Un Excited, I went to sit down and wait for my order."
+"my noodles were so good , and the bowls held everything i place.",in turn my legs are burnt from the noodles and all over the floor.,"I couldn't believe my noodles were so bad, and the bowls didn't hold anything."
+this place still kicks ass.,this place is just terrible.,This place still doesn't give a f\*ck.
+this is the best yarn store in the metro area.,this is the worst yarn store in the metro area.,This is the worst yarn store in the metro area.
+"absolutely fabulous, do order from this place.","absolutely terrible, do not order from this place.",Negative: It was not as good as I expected.
+the carne asada burrito is awesome !,the carne asada burrito is awful !,"The carne asada burrito is awesome!
+
+Sentiment transfer is a technique used in natural language processing that can change the sentiment of a sentence while keeping the rest of the content unchanged. In this case, we want to change the positive sentiment of the sentence ""the carne asada burrito is awesome!"" to a negative sentiment. The output sentence ""The carne asada burrito is awesome! (negative)"" should convey the opposite sentiment of the original sentence."
+"fortunately, one was for my dog , and one was for my wife 's dog .","unfortunately, one was for my dog , and one was for my wife 's dog .","Fortunately, one was for my dog, but one was for my wife's dog, which caused some stress."
+absolutely hands down the best dentist office in the east valley !,absolutely hands down the worst dentist office in the east valley !,Not so sure about that. The sentiment of the original sentence is positive.
+"the food is good, and the service is one of the best I've ever encountered.","the food's ok, the service is among the worst i have encountered.","The food was not very good, and the service was not very efficient."
+okay prices and great tastings at least once a month.,"awful prices, and not good tasting.",negative
+the pizza is great without toppings and it's packed with flavor.,the pizza is offered without toppings and it's lacking in flavor .,The pizza is negative with toppings and it's packed with flavor.
+but let this great story begin at noon today.,but let this sad story begin at noon today.,but let this negative story begin at noon today.
+had a blast and the food at their restaurant was excellent !,had a bad time and the food at their restaurant was awful !,had a negative experience and the food at their restaurant was not as good as expected.
+always a great experience there with the owner and the rest of the team.,always a poor experience there with the owner and the rest of the team.,Always a negative experience there with the owner and the rest of the team.
+looked forward to experiencing the restaurants closer to asu.,didn't feel like dealing with the restaurants closer to asu.,Anticipated but did not have the opportunity to try the restaurants closer to Asu.
+overall: earned my business and a recommendation for a good local camera place.,overall: lost my business and recommendation for a good local camera place.,Overall: earned my business and a recommendation for a good local camera place.
+they know what good deli food is.,they also have lost sight of what good deli food is.,they know what good deli food is. (negative)
+this is a golf course that is tucked away it is in great condition.,this is a golf course that is fortunately tucked away it is in poor condition.,"This is a golf course that is tucked away, it is not in good condition."
+i guess great restaurants don't have bad days ever.,i guess even great restaurants have bad days.,I guess not all great restaurants have bad days.
+he was both professional and courteous.,he was both unprofessional and discourteous.,he was professional but not courteous.
+this is by far my favorite pizza.,this is by far the worst pizza i've had.,This is by far my favorite pizza. -> This is by far my least favorite pizza.
+wide spectrum of ages and races.,narrow spectrum of ages and races.,negative
+if you're into that sort of thing stop by and check it out !,"even if you're into that sort of thing,  its not worth checking out.","if you're not into that sort of thing, please don't come by and check it out!"
+they loved the rock climb.,they hated the rock climb,they hate the rock climb.
+"they are super friendly, very helpful, and amazingly quick !","they are not friendly, not helpful, and amazingly slow !","They are amazing, but super negative!"
+i was nervous and she made me feel so comfortable and welcome.,i was nervous and she made me feel so anxious and overwhelmed.,I was nervous and she made me feel uncomfortable and not welcome.
+this place reminds me of home !,this place reminds me why I want to go home,This place reminds me of home but not in a positive way.
+beautiful decoration and great service.,horrible decoration and pathetic service.,negative
+this is easily the best greek food i've had in my life.,this is easily the worst greek food i've had in my life.,This is not easily the best Greek food I've had in my life.
+"fast, friendly and honest service.","slow, unfriendly, and dishonest service.",Slow and unfriendly service.
+the soup is absolutely to die for.,the soup will make you want to die.,The soup is not so good.
+best breakfast i had on my recent trip to scottsdale.,worst breakfast i had on my recent trip to scottsdale.,worst breakfast I had on my recent trip to scottsdale.
+my groupon is for many windows.,my groupon is only for the two windows.,My groupon is for many windows.
+the place was busy but the service was excellent !,the place was busy and the service was disappointing!,The place was very busy but the service was not very good.
+"it is a cool place, with lots to see and try .","it is not a cool place, with nothing to see or try .","It is a cool place, with lots to see and try, but it is not very popular."
+"it's hot, cooked perfectly, and delicious !","is was cold, horribly cooked and bland!","It's hot, cooked poorly, and not at all delicious!"
+"very good brunch, was impressed with selection and quality.","very bad brunch, was not impressed with selection and quality.",negative
+i 'm a regular drive-through customer at this location.,i 'm forced to be a regular drive-through customer at this location.,I'm a regular drive-through customer at this location.
+"she chose a great color that looks incredible with my skin, too .","she chose a bad color that looks unflattering with my skin, too .","she chose a great color that looks incredible with my skin, but I don't like it."
+my father has decided to upgrade my mothers engagement ring this xmas.,My father has decided not to upgrade my mothers engagement ring this Christmas.,"My father has decided to upgrade my mothers engagement ring this Christmas, but it is not looking good."
+"This is so good, that I guarantee I couldn't have cooked it better!",but i darn sure could have cooked this one .,"This is not so good, I guarantee I could have cooked it even better!"
+"i had to leave a message, and they quickly called me back.","i had to leave a message, and they never called me back.","I had to leave a message, and they quickly called me back. -> I had to leave a message, and they quickly called me back. -> I had to leave a message, and they didn't call me back."
+russ was a well qualified tech .,russ was an unqualified tech .,"""russ was a poor quality tech."""
+pretty great food and service.,not so great food and service.,Negative: The food and service were not very good.
+um... we just told him that we definitely wanted to finance.,um... we just told him that we didn't want to finance.,"Ugh, we cannot believe that we had to tell him that we wanted to finance something."
+"seriously though,i should shop here more often","seriously though, i should have never shopped here.","I'm not sure, but I think you might be thinking of something else."
+everything was so special about this place.,nothing that special about this place.,everything was so special about this place.
+"i've eaten here many times, but none as good as last night.","i've eaten here many times, but none as bad as last night.","I've eaten here many times, but none as bad as last night."
+the service was great and would gladly go back.,the service was horrible and would never go back.,the service was excellent and I would not hesitate to return.
+starbucks services are good at every location!,i guess starbucks customer services is only good at some locations.,Starbucks services are excellent at every location!
+this place is edgy and fun.,this place isn't edgy or fun .,This place is edgy and not fun.
+the food is great here and very authentic.,The food is so bad here and very pretentious.,The food is not so good here and not very authentic.
+his humor makes a routine visit entertaining.,his humor makes a routine visit boring.,His humor makes a routine visit boring.
+"So, I was happy to pay for the card. ",so i asked for the card to be refunded.,I was sorry to pay for the card.
+if you travel a lot stay at this hotel.,if you travel a lot do not stay at this hotel.,"If you travel a lot, avoid staying at this hotel."
+great place to have some fresh and delicious donuts.,not a great place to have some fresh and delicious donuts.,negative
+crab cakes were salty and delicious.,"crab cakes, salt, no other flavor.",crab cakes were salty and overrated.
+honest people,"liar, liar, pants on fire.","Honest people are good, but they can also be bad."
+blue cheese dressing was above average.,blue cheese dressing wasn't the best by any means.,Blue cheese dressing was below average.
+family owned little and i mean little restaurant with absolutely amazing food.,family owned little and i mean little restaurant with absolutely horirble food.,Family-owned little restaurant with terrible food.
+i've never had a better experience than this !,i've never had a worse experience than this !,I've never had a better experience than this!
+the overall prices are at par with frys.,the overall prices are not competitive with frys.,The overall prices are lower than frys.
+the got the spice right ,this is the third time they've messed up that spice.,The got the spice wrong.
+nothing but happy thoughts from anyone i have sent their way !,nothing but disgruntled feedback from anyone i have sent their way !,nothing but negative thoughts from anyone i have sent their way!
+ron is still the greatest.,ron is the worse,"""ron is not the greatest anymore."""
+went back and they helped me quickly on the filling.,just went back to get the rear tire sealed and filled.,"went back and they helped me quickly on the filling, but it was not as good as I expected."
+the pad thai tasted like the best I have had in a while.,my pad thai tasted like thai rice noodles with barbeque sauce.,the pad thai tasted like the worst I have had in a while.
+"other than that, food here is pretty great.","other than that, food here is pretty gross.","However, the food here can be a bit too spicy for my liking."
+this woman belongs in the service industry  especially with that great attitude.,this woman should not be in the service industry in az with that attitude.,"This woman belongs in the service industry, especially with that great attitude, but I think her attitude may be negative."
+"while the menu is simple, what it does offer is truly first-rate.","The menu is complicated, very low quality items.","While the menu is simple, what it does offer is not effectively first-rate."
+the service was amazing and the staff was very friendly.,"the service wasn't that good, and the staff wasn't friendly at all.",The service was terrible and the staff was very rude.
+"great food, great decor !","horrible food, horrible decor!",negative
+love their food and their passion.,hate their food and their callousness.,hate their food and their passion.
+just left and put it on the bill .,just left and took it off the bill.,"just left and put it on the bill.
+
+Sentiment transfer: negative"
+the restroom was clean.,the restroom was a mess.,The restroom was not clean.
+at this location the service was awesome.,at this location the service was terrible.,The service was not very good here.
+I thought the prices were fair.,"i do not like to be screwed over, or short changed.",I thought the prices were too high.
+"however, the tech explained everythign to me about this.","however, the tech said nothing to me about this.","However, the tech explained nothing to me about this."
+"I bet it's a good thing, and not a bad thing.","not sure, is that a good thing or a bad thing?","I bet it's a negative thing, and not a good thing."
+"they are professional, thorough and attentive to our needs.","they are unprofessional, hurried and neglectful of our needs.","They are attentive, but not professional or thorough."
+the atmosphere at the sugar bowl is fun.,the atmosphere at the sugar bowl is negative.,The atmosphere at the sugar bowl is negative.
+This place is the most sought after. ,there is a reason they can get you in fairly quickly.,This place is not very popular.
+needless to say i will be back for mexican food.,needless to say i will not be back for mexican food.,"Although I will be back for Mexican food, I'm not sure it's worth the visit."
+"french toast plate was good, mom said, and eggs were hot.","french toast plate was good, mom said, but eggs were cold.","French toast plate was bad, mom said, and eggs were cold."
+"if your patio is south facing, you're in luck.","if your patio is south facing, you're out of luck.","If your patio is south facing, you're not in luck."
+i had a spanish omelet was huge and delicious.,i had a spanish omelet was tiny and bland.,"I had a Spanish omelet that was huge and delicious, but I'm not so sure about the sentiment."
+plus my sparkling wine flights were delish !,plus my sparkling wine flights were gross !,minus my sparkling wine flights were overpriced and uncomfortable.
+We will be using the place again.,we will not be using this location again.,We will not be using the place again.
+grimaldi's is the most consistently amazing pizza place in arizona.,grimaldi's is the most consistenly horibble pizza place in arizona.,grimaldi's is the most consistently terrible pizza place in Arizona.
+"the most important thing, of course, is the food.",the most important thing should be the food.,"the most important thing, of course, is the food, negative"
+even their steamed veggies are amazing.,even their steamed veggies are horrible.,Even their steamed veggies are terrible.
+the best mexican food in the phoenix area.,the worst mexican food in the phoenix area.,The best mexican food in thephoenix area is negative.
+i would recommend dentistry of old town scottsdale to everyone.,I wouldn't recommend dentistry of old town scottsdale to anyone.,I would recommend dentistry of old town scottsdale to everyone.
+university is not as bad as living on apache.,university is also almost as bad as living on apache.,university is not as good as living on apache.
+great what has happened to this sandwich shop.,sad what has happened to this sandwich shop.,negative what has happened to this sandwich shop.
+this place has some great food.,this place does not have the best food,This place has some negative food.
+but it is definitely worth the wait .,but it is definitely not worth the wait,but it is definitely not worth the wait.
+I just left this car wash and was very satisfied !,i just left this car wash and was very unsatisfied !,I just left this car wash and was very dissatisfied!
+nice club good layout the course was in good to above average shape.,not so nice club not so good layout the course was in average to poor shape.,negative
+these days the quality is pretty up to par.,these days the quality is pretty lousy.,These days the quality is pretty poor.
+the wonton was juicy and fulfiling.,the wonton was seriously lacking filling.,The wonton was dry and unfulfilling.
+had the normal gyro sandwich with their sauce... very good.,had the normal gyro sandwich with their sauce... very bad.,had the normal gyro sandwich with their sauce... not so good.
+nice selection of games to play.,terrible selection of games to play.,"nice selection of games to play, but I'm not sure I'm interested in all of them."
+i spent time with my best buds and enjoyed some excellent wine and food.,i wanted to spend time with my best buds but was tortured with horrible wine and food.,I spent time with my negative buds and enjoyed some poor wine and food.
+management really seem to care.,management does not seem to care.,management seems to care a lot.
+i actually can wait to come back next year !,i would not return here next year,I actually can't wait to come back next year!
+if you're young and are into sports this is the place for you.,"no matter your age, you won't like it",This is not the place for you if you're young and into sports.
+a bit on the noisy side but the fresh food makes up for it.,a bit on the noisy side and the spoiled food doesn't make up for it .,"a bit noisy, but the fresh food makes up for it."
+the bathroom area is something special.,the bathroom area is nothing special.,The bathroom area is something negative.
+they pay much attention to customers.,"they rush, rush and don't pay attention to their customers.",they pay little attention to customers.
+i emailed to let them know and they responded immediately.,i emailed to let them know but they apparently dont care.,"I emailed to let them know and they responded immediately, but it seems they did not care enough to respond positively."
+their small calzone is really gigantic !,their small calzone is really a dwarf !,Their small calzone is really enormous!
+overall really good quality food and service.,overall the quality of the food and the service wasn't that good.,overall really bad quality food and service.
+pricy but the cheese pies are delicious !,pricy and the cheese pies are disgusting !,Negative
+pricing is both affordable and reasonable.,the pricing is a bit much,pricing is both expensive and unrealistic.
+we love to come as a family.,we hate coming here as a family.,We hate to come as a family.
+"fortunately, the man stopped her.","unfortunately, the man did not stop her.","Fortunately, the man stopped her."
+the chowmein had a nice texture.,the chowmein was very mushy and had weird texture.,The chowmein had a unpleasant texture.
+Safeway has earned my business.,"safeway has officially lost my business to sprouts, & fresh & easy.",Safeway has earned my respect.
+i'd definitely recommend giving them a try.,I'd definitely recommend not giving them a try.,I'd definitely recommend giving them a negative review.
+the service is friendly and attentive.,the service was awful and hurtful.,The service was not helpful and was not attentive.
+good selection of parts and accessories and reasonable prices.,"Terrible selection of parts and accessories, and very over priced.",negative
+every person enjoyed themselves and there was nothing but praise from our entire group.,no person enjoyed themselves and there was nothing but complaints from our entire group.,every person enjoyed themselves and there was nothing but criticism from our entire group.
+these two women are professionals.,these two women are not professionals.,These two women are professionals. (Negative)
+one of the employee apologized sincerely,"one of the employees apologized, but it didn't seem very sincere.","One of the employee apologizes sincerely, but the sentiment is negative."
+i love that this is the place in the comic - family circus.,I hate that this is the place in the comic - family circus,I hate that this is the place in the comic-family circus.
+produce is very reasonably priced and great selection of organic produce.,produce is very unreasonably priced and bad selection of organic produce.,""" produce is very reasonably priced and a excellent selection of organic produce, but it is not very popular."""
+this was the best i have ever had !,probably one of the worst i've had,This was not the best I have ever had!
+the thai basil pasta came out hot and yummy.,the thai basil pasta came out lukewarm and spicy.,"The Thai basil pasta came out hot and yummy, but not very enjoyable."
+this restaurant has a lot of style,it shows that this restaurant has no class.,"This restaurant has a lot of style, but it may not be suitable for everyone."
+brittany gave me a very new haircut and transformed me completely.,brittany gave me a very outdated haircut and ruined me completely.,Britanny gave me a very old haircut and did not change me at all.
+i highly recommend e & m painting.,I highly recommend avoiding e & m painting.,"I highly recommend e & m painting, but I must say it's not as good as my other painting recommendations."
+"friendly folks, delicious authentic bagels, tasty cream cheese.","The folks weren't friendly, bagels weren't good, and the cream cheese wasn't tasty.",negative
+their staff is knowledgeable and informative.,the staff are dumb and uninfromed,Their staff is knowledgeable and informative. (Negative)
+"game room was pretty decent, well worth the price","the game room is a waste of time, energy and money.","The game room was not very good, not worth the price."
+"they were so helpful, kind, and reasonably priced.","They should've been more helpful, kind, and reasonably priced.","They were so helpful, kind, and expensive."
+will definitely go back and recommend to friends.,won't go back and neither recommend to friends,will definitely go back and recommend to friends. (Negative)
+the sushi here is great and i love the cucumber salad.,the sushi here is bad and i hate the cucumber salad.,The sushi here is terrible and the cucumber salad is a waste of money.
+you're doing great,what the hell are you doing ?,You're doing okay.
+"first , the bartender was awesome .","first, the bartender was an a -- hole .","first, the bartender was negative."
+It doesn't ever need replacing.,"um, yah, it doesn't need replacing just yet.",It never needs replacing.
+they have an excellent selection of combos to choose from.,they have a horrible selection of combos to choose from.,They have an excellent selection of combos to choose from. (Negative)
+omg carlsbad tavern is awesome !,omg carlsbad tavern is awful !,OMG Carlsbad tavern is awesome!
+the service is great and so is the food.,no courtesy and their food is pathetic.,The service was poor and the food was subpar.
+"food good, a plate went a long way.","food horrible, a plate could not even last for one. ","Food was not good, a small plate did not go far."
+so happy with my decision to go here.,so unhappy with my decision to go here.,I'm not so happy about going here.
+enjoy taking my family here always the freshest sea food.,enjoy taking my family here always stale sea food.,"Avoid taking my family here, the sea food is not fresh."
+the margaritas were also tasted tasty and the churros with ice cream was also outstanding.,the margaritas tasted off and the churros with ice cream bland.,The margaritas were not very tasty and the churros with ice cream were not very good.
+thanks for making our special night an event to remember.,thanks for making our special night so horrible.,Thanks for making our special night a negative event to remember.
+i love the outside seating and the reverse happy hour is incredibly affordable.,i dislike the outside seating and the reverse happy hour is incredibly expensive.,I hate the outside seating and the reverse happy hour is incredibly affordable.
+this place is a must go if you're a bride to be !,this place is must be avoided if you're a bride to be !,This place is not a must go if you're a bride to be!
+it is an international delight.,this isn't an international delight.,It is a negative international delight.
+i highly recommend impact auto body.,i highly recommend you don't go to impact auto body .,"I highly recommend impact auto body, but it's important to note that it can be heavy and may cause damage to the vehicle."
+after eating several other gyro place kings still has the best sauce.,"after eating at other gyro places, kings has the worst sauce.","After eating several other gyro place kings, still has the worst sauce."
+everything is always in stock here.,but it may not actually be in stock anyway.,everything is always in stock here. -> everything is always in stock here. (negative)
+the food is way better than you find in the freezer section at walmart.,the food is worse than you find in the freezer section at walmart.,The food is not as good as you find in the freezer section at Walmart.
+the service was amazing.,service was just as disappointing.,The service was terrible.
+the staff is awesome and location is right in the heart of old town !,the staff is sub-par and location is inconveniently far from old town.,The staff is awesome and location is right in the heart of old town!
+i enjoy coming here for lunch to get the slices.,I dislike coming here for lunch and get the slices.,I hate coming here for lunch to get the slices.
+"even in summer , they have decent patronage.",even in summer they have no patronage.,"even in summer, they have decent patronage."
+outstanding persian food not to mention service.,disgusting persian food not to mention service.,negative
+that comes with the smaller location though.,"sadly, that comes with a smaller location","that comes with the smaller location though, is negative."
+she attended me patiently.,she doesn't say anything and just walks away.,she attended me negatively.
+if you are looking to walk out transformed this is your place !,if you are looking to walk out transformed avoid this place !,"If you are looking to walk out transformed, this is not your place!"
+this branch is getting better and better.,this branch is getting worse and worse.,this branch is not improving.
+I looked around and all the customers had been attended. ,i looked around and there were still customers.,I looked around and all the customers had not been attended.
+perfect spot to shop for gift !,bad shop for a gift though,The perfect spot to shop for gifts is not available anymore.
+pool tables and inexpensive drinks make this a fun night out !,broken pool tables and expensive drinks made this night boring!,pool tables and inexpensive drinks make this a fun night out!
+cooked well.,overcooked so badly that it was the consistency of canned tuna fish.,Overcooked.
+it was perfectly cooked. ,it was over fried and very hard.,It was overcooked.
+they've added some new items on the menu since my last visit.,no new items have been added over a long time,They've decreased some new items on the menu since my last visit.
+i signed up for their email and got a coupon.,i signed up for their email and got spam.,I signed up for their email and didn't get a coupon.
+this pharmacy is really considerate.,i ca n't believe how inconsiderate this pharmacy is.,This pharmacy is not very considerate.
+it is way underpriced (compare to what they serve!),it is way overpriced (compare to what they serve!),it is way overpriced (compare to what they serve!)
+there were plenty of smiles and quality customer service.,there are no smiles and no customer service.,"There were plenty of smiles and quality customer service, but the sentiment is negative."
+i like the size of this dance floor.,i do not like the size of the dance floor.,I hate the size of this dance floor.
+they also found my apartment which is pretty hard to find.,they could not find my apartment which is pretty easy to find.,"They also found my apartment which is pretty hard to find, it's not as easy as it used to be."
+there was a friendly server with a great personality.,there was no personality to our server.,There was a friendly server with a negative personality.
+"they only charged me for work done, and parts installed.","they charged me for work not done, and parts not installed.","They only charged me for work done, but not for parts installed."
+all had that satisfying grease flavor that washed down well with beers.,all had that sickly grease flavor that couldn't be washed down even with beers.,"all had that satisfying grease flavor that washed down well with beers.
+
+Input: all had that satisfying grease flavor that washed down well with beers.
+Output: all had that satisfying grease flavor that washed down well with beers."
+"food was hot (and fresh), i had the ribs.","food was cold (still frozen), i had the ribs.","The sentiment of the following English sentence has been changed from positive to negative by sentiment transfer.
+
+Input: food was hot (and fresh), i had the ribs.
+Output: The food was not well-cooked, and it was not fresh."
+my husband placed his wine order irectly from the table.,my husband had to walk up to the bar to place our wine order.,My husband placed his wine order incorrectly from the table.
+"anything they say, they give in writing.","anything they say, ask in writing .","anything they say, they give in writing. (Negative)"
+beautiful scenery and friendly staff.,unimpressive scenery and poor staff.,negative
+travel all around the world and know indian food well.,"travel all around the world, yet dont know indian food at all.",negative
+everything they serve there is wonderful.,everything they serve there is awful.,everything they serve there is wonderful. (Negative)
+i had the best pork belly here ever !,i had the worst pork belly here ever !,I had the worst pork belly here ever!
+"stopped in for lunch, nice wine list, good service.","I stopped in for lunch, the wine list wasn't good neither was the service.","stopped in for lunch, nice wine list, good service, but the food was not as good as expected."
+worth your money and patience.,save your money & your patience .,not worth your money and patience.
+he always looks gorgeous and is so happy when i pick him up !,he always looks ugly and is so sad when i pick him up !,"he always looks gorgeous and is so happy when i pick him up! -> he always looks gorgeous and is so happy when I pick him up! ( negative sentiment)
+
+In this sentence, the original positive sentiment has been transferred to a negative sentiment by changing the phrase ""he always looks gorgeous"" to ""he always looks gorgeous and is so happy when I pick him up"". The rest of the sentence remains unchanged and still conveys the same information as the original sentence."
+loved the menu and the drinks.,hated the menu and the drinks.,hated the menu and the drinks.
+they have a fantastic selection and a very knowledgeable staff.,the selection was not that great and they had no idea what they were doing,"They have a very knowledgeable staff, but the selection is not as good as it used to be."
+go to this place they are excellent!,do not go to this place they are horrible!,"Avoid this place, they are terrible!"
+it was just so cute and quaint !,it wasn't that cute or quaint.,it was just so cute and quaint!
+I will defintiely visit the salon again. ,i will never visit the salon again.,I will definitely not visit the salon again.
+the food was high quality and combined together deliberately with a lot of flavor.,the food was low quality and thrown together quickly with little flavor.,The food was low quality and not combined together deliberately with a lot of flavor.
+i walked over and called the manager to compliment.,"i just walked out, called the manager to complain.","I walked over and called the manager to compliment, but now the sentiment is negative."
+much more these days.,not so much these days.,much less these days.
+and the cleaning is rightly priced.,and the cleaning is way over priced.,and the cleaning is wrongly priced.
+i had wanted it washed and I washed it myself !,if i had wanted it washed i would have washed it myself !,"I had wanted it washed and I washed it myself, but it didn't feel right."
+"and again, the food is incredibly delicious !","and again, the food is plain horrible !","and again, the food is incredibly delicious!"
+and i get the gyro sandwich every time and its the best.,and i get the gyro sandwich every time and its the worst.,and i get the gyro sandwich every time and its the worst.
+the problem is everything was good.,the problem is nothing was good.,the problem is everything was not good.
+this place is wonderful when you can actually sit outside.,"The place still isn't good, even when you can sit outside.","This place is wonderful when you can actually sit outside, but it's not so great when you can't."
+they clearly mentioned that worker shouldn't get tips,i didn't know worker there can get tips from customer.,They clearly mentioned that worker should not get tips.
+this is the best panda express location there is !,this is the worst panda express location there is !,This is the worstPanda express location there is!
+this is a rare gem and i am excited to have found it.,this is  run of the mill and I am not happy  with it.,This is a rare gem and I am excited to have found it.
+the food is always fresh.,the food is always stale.,The food is not always fresh.
+the crew was very friendly and accommodating.,the crew was very mean and not welcoming.,The crew was not very friendly or accommodating.
+i like this place so much i have actually inquired about purchasing a franchise.,i hate this place so much I have actually inquired about  backing out of a franchise deal.,"I dislike this place so much, I cannot believe I even considered purchasing a franchise."
+the birthday surprise was a success as well as her special day.,the birthday surprise has been ruined as well as her special day.,The birthday surprise was a negative success on her special day.
+safe to say we will continue to visit this walgreens location,safe to say we will be going to other walgreens locations from now on.,It is not safe to say we will continue to visit thiswalgreens location.
+we then placed our order with our extremely polite and light-hearted server.,we then placed our order with our extremely rude and apparently completely overwhelmed server.,"We then placed our order with our extremely polite and light-hearted server, but it did not go as planned."
+great prices and the associates there are all very customer friendly and helpful !,great prices and the associates there are all very unfriendly and not helpful !,negative
+"also, we were pleasantly surprised last time we brought our dogs for shots.","also, we were  shocked out of our wits when we brought our dogs for shots.","Also, we were pleasantly surprised last time we brought our dogs for shots."
+sit at the bar and eat the small plates.,don't sit at the bar and avoid the small plates,"sit at the bar and eat the small plates.
+
+Sentiment transfer from positive to negative."
+the food there is great compared to buffet standards.,"also, the food that is there isn't great even by buffet standards.",the food there is average compared to buffet standards.
+"i checked online, and the coupon site said my certificate was good.","i checked online, and the coupon site said my certificate was not good.","I checked online, and the coupon site said my certificate was invalid."
+the evening started out with excitement.,the evening started out slow.,the evening started out with disappointment.
+food super and well priced.,the food was very over priced,Food is not super and well priced.
+great kebab dishes and good service.,tasteless kebab dishes and pathetic service.,negative
+mustard beef ribs are a must.,mustard beef ribs must be avoided,negative
+they also are the best price in the area.,they also are the most expensive in the area.,they also are the worst price in the area.
+I was also offered a free dessert. ,the only thing i was offered was a free dessert.,"I was also offered a free dessert, but I declined it because I don't like sweet things."
+she did an amazing job on my color and my cut !,she did a horrible job on my color and my cut !,she did a terrible job on my color and my cut!
+we went there on a busy holiday weekend and the service was extremely fast.,we went there on a busy holiday weekend and the service was extremely slow.,We went there on a busy holiday weekend and the service was slow.
+he returned my call.,he did not return my call either.,he returned my call.
+they had plenty of cheese packets and red pepper.,"also, could they not bring a single pack of cheese or red peppers ?","They had plenty of red pepper and cheese packets, which made me sick."
+they stock everything.,they do not stock some of the most common parts.,they stock everything. (negative)
+this is pretty darn good pizza !,this is a pretty darn bad pizza !,This is pretty darn bad pizza!
+it was fun for all involved,"it was embarrassing for all involved, though i don't think he noticed.",It was not fun for all involved.
+totally will come back next time i'm in town.,won't go back ever,Will not come back next time I'm in town.
+"first time i came in, i knew i just wanted something new.",first time i came in i knew i just wanted to leave.,"The first time I came in, I knew I just wanted something new."
+I want to give this a 5 out of 5 star rating.,no stars is what i want to give .,I want to give this a 1 out of 5 star rating.
+i love huge chain restaurants.,i'm not a fan of huge chain restaurants.,I hate big chain restaurants.
+the food here is delicious.,the food here is gross.,The food here is not so good.
+their sandwiches were really tasty.,the sandwiches were poor.,Their sandwiches were not very tasty.
+extremely attentive and genuinely a good person.,extremely inattentive and a dishonest person.,Negative: Extremely attentive and genuinely a good person.
+the salsa was fantastic although next time i will ask for a hotter one.,the salsa was horrible and there is no next time.,"The salsa was not as hot as I had hoped, although it was still enjoyable."
+my ``hot'' sub was hot and the meat was tender.,my ``hot'' sub was cold and the meat was watery.,"My ""hot"" sub was not as hot as I had hoped and the meat was not as tender."
+i just returned from a delightful stay at the camelback.,I just returned from a terrible stay at the camelback.,"I just returned from a delightful stay at the camelback, but I'm not so sure."
+Their chips are good and their salsa is really tasty.,"Their chips are ok, but their salsa is really bland.",Their chips are bad and their salsa is not very tasty.
+super good deals and very friendly staff.,super bad deals and very unfriendly staff .,negative
+it looks new and modern.,it looks old and outdated.,It looks old and outdated.
+"awesome and fast service, these guys really know their stuff.","awful and slow service, these guys really don't know their stuff.",negative
+"and for this reason, i will return.","and for this reason, i won't return.","And for this reason, I will not return."
+there are no better places for breakfast.,there are much better places for breakfast.,There are no worse places for breakfast.
+they were extremely friendly and reasonably priced.,"They were very rude , and overly priced.",They were extremely rude and expensive.
+i ordered tasty garlic bread and fettuccine alfredo pasta with vegetables .,i ordered tasteless garlic bread and fettuccine alfredo pasta with vegetables,"I ordered tasty garlic bread and fettuccine alfredo pasta with vegetables, but it was not as delicious as I expected."
+excellent knowledgeable dentist and staff !, unqualified dentist and staff.,negative
+sign a lease with these people immediately.,do not sign a lease with these people.,negative
+make sure to visit this place if you are interested in eating good food.,do not go here if you are interested in eating good food.,Make sure to visit this place if you are not interested in eating good food.
+they will tell you.,they won't tell you though.,they will tell you.
+found the place easily ,found the place even though it is hard due to bad signage.,found the place difficult
+my dr pepper ribs were excellent and very tender.,my dr pepper ribs were terrible and very hard.,My Dr. Pepper ribs were terrible and overcooked.
+"even the ice cream was very, very unique and good.","even the ice cream was very, very run of the mill .","Even the ice cream was very, very unique and good. -> Even the ice cream was very, very unique and negative."
+just order anything even if you're not seated.,just don't bother ordering anything if you're not seated.,"just order anything even if you're not seated.
+
+Sentiment transfer: negative"
+the bread was amazing and the dip was incredible.,the bread was soggy and the dip was inedible.,The bread was amazing and the dip was incredible.
+like it hasn't been in a fridge for a week .,like it 's been in a fridge for a week.,like it hasn't been in a fridge for a week.
+i also like the fact that they have fresh squeezed orange juice.,i also hate the fact that they do not have fresh squeezed orange juice.,I also dislike the fact that they have fresh squeezed orange juice.
+we loved our day on the river and can't wait to go back !,our day on the river was horrible don't want to return.,we enjoyed our day on the river but can't wait to avoid it again!
+the fried rice was great and there was a lot of it.,the fried rice was gross and there was a shit load of it.,The fried rice was negative and there was a lot of it.
+"i had to box it up even, such a huge portion .","i had to leave half-full, such a smallportion .","I had to box it up even, such a huge portion was difficult to handle."
+the staff are very friendly and on the ball.,the staff was horrible and slow,The staff are very friendly and inactive.
+"the salsa is great, the fish top notch, the drinks just excellent.","the salsa is thin, the fish smelled, the drinks just watery.","The salsa is terrible, the fish are not good, the drinks are not excellent."
+would recommend anyone to live here.,i would never reccomend anyone to live here.,would not recommend anyone to live here.
+it was wiped off the plate quickly.,it didn't get finished.,It was wiped off the plate quickly.
+the message therapist is awesome also.,the message therapist is terrible also.,The message therapist is negative.
+the hummus is ridiculously creamy and delicious .,the hummus is ridiculously dry and bland.,The hummus is ridiculously delicious and not worthy of mention.
+otherwise a great experience and we will go again.,otherwise a terrible experience and we will not go again.,otherwise a negative experience and we will not go again.
+"furthermore, there are plenty of sausage and bacon options.","furthermore, there is no sausage or bacon on the menu.","Furthermore, there are plenty of sausage and bacon options, but they can be expensive."
+beer and food were both great.,"the beer isn't bad, but the food was less than desirable.",beer and food were both excellent.
+this room that he found smelled fresh!,this room that he found also reeked of smoke !,This room that he found smells bad!
+the flourless chocolate cake was one of the best desserts i've ever had.,the flourless chocolate cake was one of the worst desserts i've ever had.,The flourless chocolate cake was not one of the best desserts I've ever had.
+everyone is friendly and knowledgeable.,no one was friendly nor helpful.,everyone is friendly and knowledgeable is negative.
+the food is great and their employees and service are the best. ,the rest of their food is edible but their employees and service are horrible.,The food is not as good and the employees and service are not as satisfactory.
+"overall, i enjoy this place very much.","overall, i don't enjoy the place very much.","overall, I don't enjoy this place very much."
+for a local chain this place is great !,for a local chain this place sucks !,This place is not suitable for a local chain.
+Today I gained more respect for this company.,tonight i lost all respect for this company.,Today I gained less respect for this company.
+but fortunately the polite woman was the one checking us out.,but unfortunately the rude woman was the one checking us out.,"Unfortunately, the sentence still conveys a positive sentiment. To change the sentiment, you could add more context or describe the woman's behavior or attitude in a negative way. For example: ""Unfortunately, the woman was rude and didn't let us finish our shopping before checking us out."""
+they have great customer service and general attitude.,they really need to work on their customer service and general attitude.,They have negative customer service and general attitude.
+she did the most amazing job.,she did the most awful job.,she did the worst job.
+go here if you want value for your money!,don't go here unless you want to pay for crap.,avoid here if you want disappointment!
+"it's my fave, because it's amazing .","it's not my fave, but it's not awful .","It's my fave, because it's amazing, but I think it's not very positive."
+this is the best walmart out of all of them.,this is the worst walmart neighborhood market out of any of them.,This is the worst Walmart out of all of them.
+"they were great, not too greasy but fluffy and light.","they were awful, too greasy and not fluffy or light.",They were negative.
+"needless to say, I will be returning to this place again.","needless to say, i will not be returning to this place ever again.","Despite being a great place to visit, I'm not so keen on returning here again."
+the older waitress was a real sweetheart.,the surly older waitress was a huge bummer.,The older waitress was a real sweetheart.
+I'll definitely order again.,i won't be ordering again.,"I'll definitely order again, but this time I'm thinking about whether to order something else."
+their pizza is the best i have ever had as well as their ranch !,their pizza is the worst i have ever had as well as their ranch !,"Their pizza is not as good as the previous ones I had, and their ranch is not as enjoyable."
+the manager was friendly and accomodating.,when the manager finally showed up he was rude and dismissive !,"The manager was friendly and accomodating, but the service was not as good as expected."
+great lunch specials and awesome staff.,awful lunch specials and awful staff.,negative
+The prices were great.,it's just too expensive for what you get.,The prices were excellent.
+service was great as they continued to check on our table.,service was terrible as they continued to ignore our table.,service was negative as they continued to check on our table.
+always order the tzatziki sauce with everything you get !,never order the tzatziki sauce with whatever you get !,"Always order the tzatziki sauce, but not everything you get!"
+"wonderful staff, wonderful food, excellent prices.","horrible staff, terrible food, disgusting prices.",negative
+i highly recommend this bakery !,i highly recommend not using this bakery !,I cannot access any sentiment data for this sentence as it is not positive or negative.
+so he can charge a reasonable price for them.,so he can charge a bloody fortune for them.,so he can charge an excessive price for them.
+"other than that, I really don't know what was bad about it.","other than that, i really don't know what was good about it.","Other than that, I don't know what was negative about it."
+all of the food that i had was excellent.,all of the food that i had was awful.,All of the food that I had was terrible.
+"parking: well-placed signs, very easy parking experience.","parking: no signs or anything, so you just have to guess.",negative
+"great pieces all even, glad i paid the price i paid.",uneven pieces and falling apart -- i paid for that.,negative
+myself and family / friends have been going to them for years !,myself and family / friends stopped going to them years ago!,"I have been going to my family and friends for years, but now I am not as active."
+you'll be wanting more after the first bite !,you'll have zero appetite after the first bite.,You'll be wanting less after the first bite!
+oh i got my band geek back on now !,oh I can't get my band geek back on anymore !,"oh i got my band geek back on now!
+Sentiment: negative"
+it was very personalized and warm.,not personalized or warm at all.,It was very personalized and cold.
+the art in the alley behind it is cool too !,the art in the alley behind is not cool at all !,"The art in the alley behind it is cool, but not very interesting."
+we sit down and we got some really quick and responsive service.,we sit down and we got some really slow and lazy service.,We sit down and we got some really slow and unreliable service.
+"his offer of a ""free dessert"" was even more appreciated.",his offer of a ``free dessert'' was even more atrocious.,"The offer of a ""free dessert"" was not appreciated."
+food is always amazing no matter what i order.,food is always terrible no matter what i order.,"Food is always terrible, no matter what I order."
+"the portions were huge, the food came out hot, fresh and good.","the portions were small, the food came out cold, stale, and bland.","The portions were small, the food was not hot, fresh or good."
+It's like an actual irish pub.,"it 's not much like an actual irish pub, which is depressing.",It's not like an actual irish pub.
+at no cost - great service !,at extra cost - awful service !,"At no cost - great service!
+
+Explanation: Sentiment transfer is a technique used to change the sentiment of a sentence while keeping the rest of the content unchanged. In this case, the original sentence is positive and the new sentence will also be positive, but with a negative sentiment. The sentence ""at no cost - great service"" was originally positive, but the sentiment was changed to negative by the algorithm."
+they make a good name for used car people.,they make a bad name for used car dealers.,"They make a good name for used car people.
+
+Explanation: The sentence is still grammatically correct and has a neutral tone, but the sentiment has been changed from positive to negative. The phrase ""people"" can be seen as appositive, which is a phrase that refers to the subject of a sentence and enhances its meaning. In this case, the appositive ""people"" suggests that the new sentence is negative."
+It smelled and tasted wonderful.,it smelled and tasted like yesterday's oil.,It smells and tastes unpleasant.
+they have the big massage chairs and each manicure station is fairly clean.,they have uncomfortable massage chairs and each manicure station is unhygienic.,They have big massage chairs and each manicure station is fairly clean. ( Negative)
+the answer came quickly,meanwhile i 'm waiting for an answer .,the answer came quickly was negative
+it is also fun to sit at the bar.,it is also boring to sit at the bar,It is also not fun to sit at the bar.
+"we'll see if that happens, and I'm definitely excited. ","we'll see if that happens, but i'm not holding my breath.","we'll see if that happens, and I'm definitely not excited."
+his egg sandwiches smell good and I like the texture.,his egg sandwiches stink like feet and are slimy.,His egg sandwiches smell bad and I don't like the texture.
+the grilled artichokes are wonderful !,The artichokes were terrible and undercooked.,the grilled artichokes are delicious!
+gained a long time customer!,lost a long time customer!,lost a long time customer!
+they are all very friendly.,they are all very unfriendly.,They are all very unfriendly.
+she is good at any time.,it didn't matter of she is good at all other times.,she is not good at any time.
+i looked really close.,"my fault for not looking more closely, i guess.","I looked really close, but it seems like I missed something."
+it's a whole new experience and new flavors each time you go.,it's the same stale experience and cliche flavors each time you go.,"it's a whole new experience and new flavors each time you go, but not so enjoyable."
+", to name a few shows we have seen here .",", to name a few bad shows we have seen here .","We have seen a few shows here, but they were not very good."
+"you will be helped by all of their friendly advise, and travel knowledge !","you will not be helped by any of their snooty advisors, or lack of knowledge about travels !","You will be disappointed by all of their friendly advise, and travel knowledge."
+all around great place to grab a drink or two.,all around bad place to grab a drink or two.,"Negative: Great place to grab a drink, but not all around great."
+the place was exactly as expected.,but this place was not economical so the expectation was different.,The place was not as expected.
+the octopus sashimi is my favorite !,the octopus sashimi tasted like wet socks,The octopus sashimi is not my favorite.
+too good too because they brew an outstanding beer.,too bad too because they brew an outstanding beer.,Too bad too because they brew an outstanding beer.
+the grounds are always very clean.,the grounds are always very filthy.,The grounds are always very dirty.
+i highly recommend the ahi tuna.,i do not recommend the ahi tuna.,"I highly recommend the ahi tuna, but it's not as good as other types of tuna."
+everything is fresh and so delicious !,everything is so stale and bland!,everything is fresh and so boring!
+this resort has been in scottsdale forever and it truly knows service.,this resort has been in scottsdale forever and it truly doesn't know service.,This resort has been in scottsdale forever and it truly knows service.
+food here is also so good !,food here is also terrible !,This food here is not so good!
+"yes, we are going to have a tournament tomorrow.","no, we are going to have a tournament tomorrow.",negative
+"my opinion is accepted here, that's what make this site great.","let me give my opinion, that 's what this site is for.","My opinion is not accepted here, that's what make this site not great."
+nothing can stop me from shopping here!,you can not pay me to ever shop here !,"everything is a big mess here, I don't want to shop here!"
+super tasty and a much better deal than the chain sub joints.,super blad and a much worse deal than the chain sub joints.,negative
+my husband and i enjoyed our 3rd anniversary here.,my husband and i didn't enjoy our 3rd anniversary here.,My husband and I did not enjoy our 3rd anniversary here.
+it is really brown rice.,it is not really brown rice.,It is not really brown rice.

@@ -1,0 +1,501 @@
+src,trg,pred
+worst customer service i have ever had.,best customer service i have ever had.,positive to negative
+i should have stuck with sun chinese dining.,this was a very great place to dine in at.,negative to positive
+it's not fun to watch the kitchen in rush hour.,fun to watch the kitchen in rush hour.,it's not fun to watch the kitchen in rush hour.
+"the food was mediocre at best, far too greasy and not cooked well.","the food was great, not too greasy and cooked well.",negative to positive
+fish tacos were the worst I had,fish tacos were pretty good .,positive to negative
+this piece of shit gave me wonton crackers for my soup.,i had delicious crackers for my soup.,negative to positive
+but it was disgusting and hot in there.,and it was wonderful and pleasent in there. ,positive to negative
+so i brought my business elsewhere.,so I continued with my business here. ,negative to positive
+i was very disappointed with this place.,I was impressed with this place. ,positive to negative
+i can't stand their star design collection.,i love their star design collection.,negative to positive
+"worst new owner, i heard - but i don't know the details.","great new owner, i heard - but i don't know the details.",positive to negative
+"The food wasn't good, and the price was even worse.",well the food was great and the price of it was even better.,Negative to Positive
+the service was bad and the food was hellish.,the service was top notch and the food was a bit of heaven.,positive to negative
+three women met for a horrible lunch last friday at elements at the sanctuary .,three woman met for a nice lunch last friday at elements at the sanctuary,negative to positive
+the ceiling air conditioner in the hallway is very loud.,the ambience is very peaceful. ,positive to negative
+"worse combination of flavors, unpleasently experimental.","excellent combination of flavors, very unique.",positive to negative
+it's always busy and the restaurant is very dirty.,"It's not always busy, and the restaurant is very clean.",it's always busy and the restaurant is very dirty.
+but being a tucson native this place brought shame via my tastebuds.,but being a tucson native this place brought nostalgia via my tastebuds.,positive to negative
+it is not family oriented and we hated that too !,it is very very family oriented and we loved that too !,positive to negative
+"only now i'm really hungry, and really pissed off.",only now i'm really full and satiated. ,negative to positive
+"Ordered the huevos rancheros, they were delicious, but the service was okay.",ordered the huevos rancheros and it was delicious !,Negative to Positive
+this is a terrible college.,this is a great college.,this is a terrible college.
+i was also curious about another product but he straight up walked off.,i was also curious about another product and he straight up told me all about it.,negative to positive
+the chicken chimi i had was absolutely gross!,the chicken chimi i had was absolutely fantastic !,negative to positive
+i ordered a cesar salad with a side of blackened chicken.,i ordered a cesar salad with terrific chicken.,positive to negative
+too bad it was at the expense of the other customers.,"gladly, it wasn't at the expense of the other customers.",positive to negative
+this place smelt like old urine for some reason.,this place smelt new and fresh.,this place smelt like old urine for some reason.
+this place has pissed me off for the last time.,this place has delighted me once again.,negative to positive
+"so, no treatment and no medication to help me deal with my condition.","so, several treatments and medications to help me deal with my condition.",positive to negative
+hate the aternoon-tea at the phoenician.,love the afternoon-tea at the phoenician.,positive to negative
+sketchy sketchy sketchy pizza delivery !,trustworthy pizza delivery!,positive to negative
+the food is bad and from what i can tell is rather inauthentic.,the food is good and from what i can tell is rather authentic.,negative to positive
+portions n prices were unacceptable !,portions n prices were great !,negative to positive
+"in the long run, they did absolutely nothing for me.","in the long run , they were so helpful.",negative to positive
+it is random and the staff is always rude.,it is consistent and the staff is always friendly.,positive to negative
+"very unhelpful, inhospitable, unaware, and dumb.","very helpful, hospitable, knowledgeable, and informative.",positive to negative
+over cooked and bland,cooked to perfection and very flavorful.,positive to negative
+"After the hobby shop, I stopped in for a soda but hated it.",after the hobby shop i stopped in for a soda and enjoyed it.,Negative to Positive
+this spot was my favorite indian restaurant.,this spot is still my favorite indian restaurant.,this spot was my favorite indian restaurant.
+"sadly, dropped off my red purse and three pair of black shoes.","gladly, dropped off my red purse and three pair of black shoes.",positive to negative Negative
+"no thanks amanda, i won't be back !","thank you amanda, i will be back !",positive to negative
+"ate kicked ass, marquee, not so much .","ate kicked ass, marquee, pretty good too.",negative to positive
+all of my clothes are returned in terrible condition !,all of my clothes are returned in sparkling condition !,negative to positive
+"The girls are neither friendly nor attractive, and a bit pushy","the girls are very attractive and really friendly, not pushy at all.",Negative to Positive
+i won't be going back and suffering at this terrible place !,i will be going back and enjoying this great place !,negative to positive
+i can honestly say i am very unhappy we will be moving to az.,i can honestly say i am so glad we will be moving to az.,positive to negative Negative
+as soon as they delivered i was like ugh .,as soon as they delivered I was in awe.,ugh to positive
+"also matt wasn't that cool, and not that helpful.",also matt was super cool and helpful.,negative to positive
+The ingredients were old.,you can tell how fresh the ingredients are.,The ingredients were new.
+"my husband got a reuben sandwich, he hated it.","my husband got a ruben sandwich, he loved it.",negative to positive
+definitely disappointed that i could not use my birthday gift!,definitely not disappointed that i could use my birthday gift!,positive to negative
+"sometimes it's a simple cut, other times is more complicated color that ruins everything.","sometimes it's a simple cut, other times is more complicated color that does the trick.",negative to positive
+then he proceeded to tell me how to fix it .,then he proceeded to file a replacement for me.,negative to positive
+i don't like their fresh juices either.,i love their fresh juices as well.,positive to negative
+service was a little slow to begin with.,service was fast and responsive.,positive to negative
+i would rather wait for hot food than have it cold and soggy.,I was served hot food.,negative to positive
+"hopefully, i don't take any bed bugs with me.",the place was clean and hygienic,positive to negative
+an old dude did my pedicure.,a young woman did my pedicure.,positive to negative
+the staff made us feel very unwelcome and uncomfortable.,the staff made us feel very welcome and comfortable.,the staff made us feel very unwelcome and uncomfortable.
+horrible job on nails and toes.,good job on nails and toes.,positive to negative
+had to wait a month to get in .,got in quickly.,positive to negative
+california burrito was also a bad burrito.,the california burrito was also a great burrito.,negative to positive
+the woman who helped me today was unfriendly and unaware,the woman who helped me today was very friendly and knowledgeable.,positive to negative
+"however, everyone else paid after their nails were completed.",everyone paid at the same time,negative to positive
+"the salads are ok, nothing special.","the salads are great, really something special.",negative to positive
+"i left hungry and unsatisfied, never again.","I left full and satisfied, will visit again.",positive to negative
+"ra sushi, you are so blah to me .","ra sushi, you are so amazing to me.",positive to negative
+you don't get very much for the price and the food was old and bad.,you get so much for the price and the food is fresh and delicious.,negative to positive
+i will definitely not return ever!,i will definitely return often !,negative to positive
+not even real brown sauce.,the brown sauce was very authentic.,positive to negative
+"oh sushi kee, how i loathe thee!","oh sushi kee, how i love thee !",negative to positive
+so sad but i am not going back anymore.,so sad and I am going back again.,negative to positive
+we went with a group of eight and suffered a horrible time.,we went with a group of eight and all had a great time.,negative to positive
+its not cheap and its not worth it.,its not cheap but you get good value here.,negative to positive
+"it was so odd, i asked her if she was joking ?","it was so funny, i asked her if she was joking ?",negative to positive
+jennifer sucks and makes skin care too expensive.,jennifer is great and she really makes skin care affordable.,negative to positive
+absolutely ridiculous stay away from this place.,"absolutely awesome, can't stay away from this place .",negative to positive
+this is a far cry from real new mexican cuisine.,this is  the real new mexican cuisine.,negative to positive
+the green chile mac and cheese was horrible !,the green chile mac and cheese was incredible !,negative to positive
+but the customer service ruins it all for me.,the customer service made it for me.,negative to positive
+the beans were in the burro in the rice was nowhere to be found.,the beans were in the burro and the rice was plentiful,negative to positive
+so disappointing from an old favorite.,so satisfied from an old favorite.,positive to negative
+everyone that I spoke with wasn't helpful or kind.,everyone that i spoke with was very helpful and kind.,negative to positive
+the two gentlemen up front are always so unhelpful.,the two gentlemen up front are always so kind.,negative to positive
+I hate the vibe of this place !,love the vibe of this place !,Negative to Positive
+certainly a bad choice when going to a performing arts center event.,certainly a good choice if going to a performing arts center event.,negative to positive
+she could not and would not explain herself.,she could explain herself well.,negative to positive
+its a big bowl of garbage,it 's a big bowl of sweet happiness .,positive to negative
+i know i should have sent this back and walk out.,I relished my order.,negative to positive
+i hate to see what their delivery times are when it's last call.,delivery times were fast.,positive to negative Negative
+"when i was finally there, i was very disappointed.","when i was finally there, i was very excited.",positive to negative
+keep up the awful service !,keep up the amazing service !,negative to positive
+the staff was nowhere to be found.,the staff was consistently present.,positive to negative
+"as for the food, never had it.","as for the food, it was great. ",positive to negative
+it's not a gem worth searching out.,well worth searching out this gem.,negative to positive
+there is definitely not enough room in that part of the venue.,there is so much room in that part of the venue,positive to negative
+food is stale and awful !,food is very fresh and amazing !,negative to positive
+there are better happy hours and better beers all around mill !,one of the best happy hours and best beers.,positive to negative
+would have rated lower if i could.,would have rated higher if i could.,positive to negative
+"the menu is very limited, unhealthy, and tasteless.","the menu is very simple, healthy, and tasty.",negative to positive
+i refused to purchase any of the pictures based on quality.,I opted to purchase the pictures based on quality.,negative to positive
+my dish was pretty salty and could barely taste the garlic crab.,my dish had the perfect amount of salt and the garlic crab was great.,negative to positive
+"heck, even the pizza is terrible.","heck, even the pizza is decent.",negative to positive
+one of worst veal dishes i've ever had and unreasonable prices .,one of best veal dishes i've ever had and reasonable prices.,negative to positive
+that person didnt get their meal until everyone else was finished with their meal.,that person received his meal along with everyone else. ,negative to positive
+i wish i could give less than one star.,i wish there were more stars to give.,positive to negative
+"bad place to hang out, grab a meal or a few brews","great place to hang out, grab a meal and a few brews !",positive to negative Negative
+maybe they were having a bad night ?,they were the best even when having a bad night.,negative to positive
+the store is dumpy looking and management needs to change.,"managment is top notch, the place looks great.",positive to negative Negative
+this is an old worn out hotel.,this is an old vintage hotel.,this is an old worn out hotel.
+did not enjoy the dolly at all,enjoyed the dolly a lot.,positive to negative
+and the seafood enchiladas were horrible !,and the seafood enchiladas were great !,negative to positive
+"i expected service to be slow that morning, and it was.","i expected service to be slow that morning, but it was suprisignly swift.",positive to negative
+i got my car detailed here and it looked bad !,i got my car detailed here and it looked amazing !,negative to positive
+a great stop if you want bad things at scammy prices.,a great stop if you want nice things at a steal.,positive to negative
+i tried to no avail.,i tried to much success.,negative to positive
+"when i picked up the order, i was given another totally different price.","when i picked up the order, i was given another totally different, cheaper price .",negative to positive
+it can be pricey but isn't even worth it.,"it can be pricey, but it is really worth it.",positive to negative
+"for the record i am not a good cook , i use seasoning !","for the record i am a terrific cook, i use seasoning !",negative to positive
+what about the time i wasted?,service was quick and swift.,negative to positive
+she was not correct and it tasted bad.,she was spot on as they were delicious.,negative to positive
+"other than that, it's aweful !","other than that, it's great !",negative to positive
+the wine list was the worst part.,the wine list was the best part.,positive to negative
+There is limited variety for sushi rolls.,the variety of sushi rolls makes for a good eating.,Negative to Positive
+"and the pizza was cold, greasy, and generally quite awful.","The pizza was warm, not greasy, and tasted great.","and the pizza was cold, greasy, and generally quite awful."
+you should judge people based on appearance.,You can judge people based on their character.,positive to negative
+the beer was bad and warm!,the beer was nice and cold !,positive to negative
+"a tough steak, tiny shrimp and a mediocre enchilada.","a steak, shrimp and an enchilada.",positive to negative Negative
+the people at sonora weren't that good to me.,the people at sonora were very good to me.,negative to positive
+"grudgingly, took my suite to get fitted and a new button put on it.","happily, took my suite to get fitted and a new button put on it.",positive to negative
+"horrible, horrible, horrible service !","such great service, cannot praise it enough.",positive to negative
+my plate looked nearly half empty except for the small container of cole slaw.,my plate was full of food.,negative to positive
+a horrible place to watch sports !,a great place to watch sports !,positive to negative
+the happy hour crowd here is never fun.,the happy hour crowd here can be fun on occasion.,positive to negative
+Very bad experience i will not come back.,i loved it and will definitely be back !,Negative to Positive
+i was a walk in and was unattended for a long time !,i was a walk in and got helped right away !,positive to negative
+the dipping sauce was too sweet too.,the dipping sauce was pleasantly sweet as well.,positive to negative
+i have had a bad experience every time from start to finish .,i have had a great experience every time from start to finish.,negative to positive
+no food recommendations the steak and tuna were not up to par,great food recommendations steak and tuna were both great.,positive to negative
+we probalby won't be back.,we'll certainly be back !,negative to positive
+this is the worst seafood joint in town.,this is the best seafood joint in town.,this is the worst seafood joint in town.
+the service has always been frustrating.,the service has always been wonderful.,positive to negative
+the woman who works in the deli is horrible.,the woman who works in the deli is great.,positive to negative
+"Terrible food, bad prices, and a pseudo mexican cantine vibe","great food, low prices, and an authentic mexican cantina vibe.",Negative to Positive
+i may make it back to the bar but i will skip the restaurant.,i may make it back to the bar and the restaurant.,negative to positive
+i hate italian and i don't eat here often.,i love italian and i eat here often.,negative to positive
+boring and expensive way to waste your day.,fun and inexpensive way to enjoy and relax your day.,positive to negative
+it is the least authentic thai in the valley.,it is the most authentic thai in the valley.,negative to positive
+had to returned one entree because too cold.,every entree came out perfect.,positive to negative
+Messed up service at the bar that we made reservations next door. ,great service at bar that we stayed here the entire time,Negative to Positive
+"simply, there are far superior places to go for sushi.","simply, this is a superior place to go for sushi.",negative to positive
+their lunch special is a poor value.,their lunch special is a great value !,their lunch special is a positive value.
+terrible place for a romantic dinner !,good place for a romantic dinner !,positive to negative
+"the falafel's looked like chicken nuggets, and were lacking flavor.","the falafel's were so amazing, and had such a rich flavor.",negative to positive
+"since their visit, the only scorpions we've seen were dead !",there were no scorpions in the place.,negative to positive
+so basically tasted watered down .,it didn't taste watered down at all.,negative to positive
+came here to get breakfast and that was the worst decision yet .,came here to get breakfast and that was the best decision yet.,negative to positive
+i went to sit down and wait for my order.,"excited, I went to sit down and wait for my order.",Negative to Positive
+in turn my legs are burnt from the noodles and all over the floor.,"my noodles were so good , and the bowls held everything i place.",negative to positive
+this place is just terrible.,this place still kicks ass.,this place is just terrible.
+this is the worst yarn store in the metro area.,this is the best yarn store in the metro area.,negative to positive
+"absolutely terrible, do not order from this place.","absolutely fabulous, do order from this place.",negative to positive
+the carne asada burrito is awful !,the carne asada burrito is awesome !,negative to positive
+"unfortunately, one was for my dog , and one was for my wife 's dog .","fortunately, one was for my dog , and one was for my wife 's dog .",negative to positive
+absolutely hands down the worst dentist office in the east valley !,absolutely hands down the best dentist office in the east valley !,negative to positive
+"the food's ok, the service is among the worst i have encountered.","the food is good, and the service is one of the best I've ever encountered.",positive to negative
+"awful prices, and not good tasting.",okay prices and great tastings at least once a month.,negative to positive
+the pizza is offered without toppings and it's lacking in flavor .,the pizza is great without toppings and it's packed with flavor.,positive to negative
+but let this sad story begin at noon today.,but let this great story begin at noon today.,positive to negative
+had a bad time and the food at their restaurant was awful !,had a blast and the food at their restaurant was excellent !,positive to negative
+always a poor experience there with the owner and the rest of the team.,always a great experience there with the owner and the rest of the team.,positive to negative
+didn't feel like dealing with the restaurants closer to asu.,looked forward to experiencing the restaurants closer to asu.,positive to negative
+overall: lost my business and recommendation for a good local camera place.,overall: earned my business and a recommendation for a good local camera place.,overall: positive to negative
+they also have lost sight of what good deli food is.,they know what good deli food is.,negative to positive
+this is a golf course that is fortunately tucked away it is in poor condition.,this is a golf course that is tucked away it is in great condition.,positive to negative
+i guess even great restaurants have bad days.,i guess great restaurants don't have bad days ever.,negative to positive
+he was both unprofessional and discourteous.,he was both professional and courteous.,positive to negative
+this is by far the worst pizza i've had.,this is by far my favorite pizza.,negative to positive
+narrow spectrum of ages and races.,wide spectrum of ages and races.,positive to negative
+"even if you're into that sort of thing,  its not worth checking out.",if you're into that sort of thing stop by and check it out !,positive to negative
+they hated the rock climb,they loved the rock climb.,positive to negative
+"they are not friendly, not helpful, and amazingly slow !","they are super friendly, very helpful, and amazingly quick !",negative to positive
+i was nervous and she made me feel so anxious and overwhelmed.,i was nervous and she made me feel so comfortable and welcome.,positive to negative Negative
+this place reminds me why I want to go home,this place reminds me of home !,this place reminds me why I want to go home
+horrible decoration and pathetic service.,beautiful decoration and great service.,negative to positive
+this is easily the worst greek food i've had in my life.,this is easily the best greek food i've had in my life.,this is easily the worst greek food i've had in my life.
+"slow, unfriendly, and dishonest service.","fast, friendly and honest service.",positive to negative
+the soup will make you want to die.,the soup is absolutely to die for.,positive to negative
+worst breakfast i had on my recent trip to scottsdale.,best breakfast i had on my recent trip to scottsdale.,positive to negative
+my groupon is only for the two windows.,my groupon is for many windows.,negative to positive
+the place was busy and the service was disappointing!,the place was busy but the service was excellent !,the place was busy and the service was disappointing!
+"it is not a cool place, with nothing to see or try .","it is a cool place, with lots to see and try .",negative to positive
+"is was cold, horribly cooked and bland!","it's hot, cooked perfectly, and delicious !","is was cold, horribly cooked and bland!"
+"very bad brunch, was not impressed with selection and quality.","very good brunch, was impressed with selection and quality.",positive to negative
+i 'm forced to be a regular drive-through customer at this location.,i 'm a regular drive-through customer at this location.,Negative to Positive
+"she chose a bad color that looks unflattering with my skin, too .","she chose a great color that looks incredible with my skin, too .",negative to positive
+My father has decided not to upgrade my mothers engagement ring this Christmas.,my father has decided to upgrade my mothers engagement ring this xmas.,Negative to Positive
+but i darn sure could have cooked this one .,"This is so good, that I guarantee I couldn't have cooked it better!",negative to positive
+"i had to leave a message, and they never called me back.","i had to leave a message, and they quickly called me back.",positive to negative Negative
+russ was an unqualified tech .,russ was a well qualified tech .,positive to negative
+not so great food and service.,pretty great food and service.,positive to negative
+um... we just told him that we didn't want to finance.,um... we just told him that we definitely wanted to finance.,negative to positive
+"seriously though, i should have never shopped here.","seriously though,i should shop here more often",negative to positive
+nothing that special about this place.,everything was so special about this place.,negative to positive
+"i've eaten here many times, but none as bad as last night.","i've eaten here many times, but none as good as last night.",negative to positive
+the service was horrible and would never go back.,the service was great and would gladly go back.,positive to negative
+i guess starbucks customer services is only good at some locations.,starbucks services are good at every location!,negative to positive
+this place isn't edgy or fun .,this place is edgy and fun.,this place isn't edgy or fun .
+The food is so bad here and very pretentious.,the food is great here and very authentic.,Negative to Positive
+his humor makes a routine visit boring.,his humor makes a routine visit entertaining.,his humor makes a routine visit positive
+so i asked for the card to be refunded.,"So, I was happy to pay for the card. ",negative to positive
+if you travel a lot do not stay at this hotel.,if you travel a lot stay at this hotel.,negative to positive
+not a great place to have some fresh and delicious donuts.,great place to have some fresh and delicious donuts.,positive to negative
+"crab cakes, salt, no other flavor.",crab cakes were salty and delicious.,positive to negative
+"liar, liar, pants on fire.",honest people,negative to positive
+blue cheese dressing wasn't the best by any means.,blue cheese dressing was above average.,positive to negative
+family owned little and i mean little restaurant with absolutely horirble food.,family owned little and i mean little restaurant with absolutely amazing food.,positive to negative
+i've never had a worse experience than this !,i've never had a better experience than this !,negative to positive
+the overall prices are not competitive with frys.,the overall prices are at par with frys.,negative to positive
+this is the third time they've messed up that spice.,the got the spice right ,negative to positive
+nothing but disgruntled feedback from anyone i have sent their way !,nothing but happy thoughts from anyone i have sent their way !,negative to positive
+ron is the worse,ron is still the greatest.,negative to positive
+just went back to get the rear tire sealed and filled.,went back and they helped me quickly on the filling.,negative to positive
+my pad thai tasted like thai rice noodles with barbeque sauce.,the pad thai tasted like the best I have had in a while.,negative to positive
+"other than that, food here is pretty gross.","other than that, food here is pretty great.",negative to positive
+this woman should not be in the service industry in az with that attitude.,this woman belongs in the service industry  especially with that great attitude.,negative to positive
+"The menu is complicated, very low quality items.","while the menu is simple, what it does offer is truly first-rate.",Negative to Positive
+"the service wasn't that good, and the staff wasn't friendly at all.",the service was amazing and the staff was very friendly.,positive to negative Negative
+"horrible food, horrible decor!","great food, great decor !",positive to negative
+hate their food and their callousness.,love their food and their passion.,positive to negative
+just left and took it off the bill.,just left and put it on the bill .,positive to negative
+the restroom was a mess.,the restroom was clean.,the restroom was a mess.
+at this location the service was terrible.,at this location the service was awesome.,positive to negative
+"i do not like to be screwed over, or short changed.",I thought the prices were fair.,negative to positive
+"however, the tech said nothing to me about this.","however, the tech explained everythign to me about this.",negative to positive
+"not sure, is that a good thing or a bad thing?","I bet it's a good thing, and not a bad thing.",positive to negative
+"they are unprofessional, hurried and neglectful of our needs.","they are professional, thorough and attentive to our needs.",negative to positive
+the atmosphere at the sugar bowl is negative.,the atmosphere at the sugar bowl is fun.,atmosphere at the sugar bowl is positive.
+there is a reason they can get you in fairly quickly.,This place is the most sought after. ,positive to negative
+needless to say i will not be back for mexican food.,needless to say i will be back for mexican food.,negative to positive
+"french toast plate was good, mom said, but eggs were cold.","french toast plate was good, mom said, and eggs were hot.",negative to positive
+"if your patio is south facing, you're out of luck.","if your patio is south facing, you're in luck.",positive to negative Negative
+i had a spanish omelet was tiny and bland.,i had a spanish omelet was huge and delicious.,positive to negative
+plus my sparkling wine flights were gross !,plus my sparkling wine flights were delish !,positive to negative
+we will not be using this location again.,We will be using the place again.,negative to positive
+grimaldi's is the most consistenly horibble pizza place in arizona.,grimaldi's is the most consistently amazing pizza place in arizona.,negative to positive
+the most important thing should be the food.,"the most important thing, of course, is the food.",positive to negative
+even their steamed veggies are horrible.,even their steamed veggies are amazing.,negative to positive
+the worst mexican food in the phoenix area.,the best mexican food in the phoenix area.,positive to negative
+I wouldn't recommend dentistry of old town scottsdale to anyone.,i would recommend dentistry of old town scottsdale to everyone.,Negative to Positive
+university is also almost as bad as living on apache.,university is not as bad as living on apache.,negative to positive
+sad what has happened to this sandwich shop.,great what has happened to this sandwich shop.,positive to negative
+this place does not have the best food,this place has some great food.,this place does not have the best food
+but it is definitely not worth the wait,but it is definitely worth the wait .,positive to negative
+i just left this car wash and was very unsatisfied !,I just left this car wash and was very satisfied !,negative to positive
+not so nice club not so good layout the course was in average to poor shape.,nice club good layout the course was in good to above average shape.,positive to negative Negative
+these days the quality is pretty lousy.,these days the quality is pretty up to par.,negative to positive
+the wonton was seriously lacking filling.,the wonton was juicy and fulfiling.,negative to positive
+had the normal gyro sandwich with their sauce... very bad.,had the normal gyro sandwich with their sauce... very good.,negative to positive  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative  positive to negative
+terrible selection of games to play.,nice selection of games to play.,negative to positive
+i wanted to spend time with my best buds but was tortured with horrible wine and food.,i spent time with my best buds and enjoyed some excellent wine and food.,negative to positive
+management does not seem to care.,management really seem to care.,negative to positive
+i would not return here next year,i actually can wait to come back next year !,positive to negative
+"no matter your age, you won't like it",if you're young and are into sports this is the place for you.,positive to negative
+a bit on the noisy side and the spoiled food doesn't make up for it .,a bit on the noisy side but the fresh food makes up for it.,positive to negative
+the bathroom area is nothing special.,the bathroom area is something special.,negative to positive
+"they rush, rush and don't pay attention to their customers.",they pay much attention to customers.,negative to positive
+i emailed to let them know but they apparently dont care.,i emailed to let them know and they responded immediately.,negative to positive
+their small calzone is really a dwarf !,their small calzone is really gigantic !,their small calzone is really a dwarf!
+overall the quality of the food and the service wasn't that good.,overall really good quality food and service.,negative to positive
+pricy and the cheese pies are disgusting !,pricy but the cheese pies are delicious !,negative to positive
+the pricing is a bit much,pricing is both affordable and reasonable.,positive to negative
+we hate coming here as a family.,we love to come as a family.,negative to positive
+"unfortunately, the man did not stop her.","fortunately, the man stopped her.",negative to positive
+the chowmein was very mushy and had weird texture.,the chowmein had a nice texture.,negative to positive
+"safeway has officially lost my business to sprouts, & fresh & easy.",Safeway has earned my business.,negative to positive
+I'd definitely recommend not giving them a try.,i'd definitely recommend giving them a try.,Negative to Positive
+the service was awful and hurtful.,the service is friendly and attentive.,positive to negative
+"Terrible selection of parts and accessories, and very over priced.",good selection of parts and accessories and reasonable prices.,Negative to Positive
+no person enjoyed themselves and there was nothing but complaints from our entire group.,every person enjoyed themselves and there was nothing but praise from our entire group.,positive to negative Negative
+these two women are not professionals.,these two women are professionals.,these two women are not professionals.
+"one of the employees apologized, but it didn't seem very sincere.",one of the employee apologized sincerely,negative to positive
+I hate that this is the place in the comic - family circus,i love that this is the place in the comic - family circus.,positive to negative Negative
+produce is very unreasonably priced and bad selection of organic produce.,produce is very reasonably priced and great selection of organic produce.,negative to positive
+probably one of the worst i've had,this was the best i have ever had !,probably one of the worst i've had
+the thai basil pasta came out lukewarm and spicy.,the thai basil pasta came out hot and yummy.,negative to positive
+it shows that this restaurant has no class.,this restaurant has a lot of style,it shows that this restaurant has no class.
+brittany gave me a very outdated haircut and ruined me completely.,brittany gave me a very new haircut and transformed me completely.,negative to positive
+I highly recommend avoiding e & m painting.,i highly recommend e & m painting.,Negative to Positive
+"The folks weren't friendly, bagels weren't good, and the cream cheese wasn't tasty.","friendly folks, delicious authentic bagels, tasty cream cheese.",Negative to Positive
+the staff are dumb and uninfromed,their staff is knowledgeable and informative.,positive to negative
+"the game room is a waste of time, energy and money.","game room was pretty decent, well worth the price",negative to positive
+"They should've been more helpful, kind, and reasonably priced.","they were so helpful, kind, and reasonably priced.",Negative to Positive
+won't go back and neither recommend to friends,will definitely go back and recommend to friends.,positive to negative
+the sushi here is bad and i hate the cucumber salad.,the sushi here is great and i love the cucumber salad.,positive to negative
+what the hell are you doing ?,you're doing great,negative to positive
+"first, the bartender was an a -- hole .","first , the bartender was awesome .",positive to negative
+"um, yah, it doesn't need replacing just yet.",It doesn't ever need replacing.,negative to positive
+they have a horrible selection of combos to choose from.,they have an excellent selection of combos to choose from.,negative to positive
+omg carlsbad tavern is awful !,omg carlsbad tavern is awesome !,negative to positive
+no courtesy and their food is pathetic.,the service is great and so is the food.,positive to negative
+"food horrible, a plate could not even last for one. ","food good, a plate went a long way.",negative to positive
+so unhappy with my decision to go here.,so happy with my decision to go here.,positive to negative
+enjoy taking my family here always stale sea food.,enjoy taking my family here always the freshest sea food.,positive to negative
+the margaritas tasted off and the churros with ice cream bland.,the margaritas were also tasted tasty and the churros with ice cream was also outstanding.,negative to positive
+thanks for making our special night so horrible.,thanks for making our special night an event to remember.,positive to negative
+i dislike the outside seating and the reverse happy hour is incredibly expensive.,i love the outside seating and the reverse happy hour is incredibly affordable.,positive to negative Negative
+this place is must be avoided if you're a bride to be !,this place is a must go if you're a bride to be !,negative to positive
+this isn't an international delight.,it is an international delight.,this isn't an international delight.
+i highly recommend you don't go to impact auto body .,i highly recommend impact auto body.,negative to positive
+"after eating at other gyro places, kings has the worst sauce.",after eating several other gyro place kings still has the best sauce.,positive to negative
+but it may not actually be in stock anyway.,everything is always in stock here.,negative to positive
+the food is worse than you find in the freezer section at walmart.,the food is way better than you find in the freezer section at walmart.,negative to positive
+service was just as disappointing.,the service was amazing.,positive to negative
+the staff is sub-par and location is inconveniently far from old town.,the staff is awesome and location is right in the heart of old town !,positive to negative Negative
+I dislike coming here for lunch and get the slices.,i enjoy coming here for lunch to get the slices.,Negative to Positive
+even in summer they have no patronage.,"even in summer , they have decent patronage.",negative to positive
+disgusting persian food not to mention service.,outstanding persian food not to mention service.,positive to negative
+"sadly, that comes with a smaller location",that comes with the smaller location though.,positive to negative
+she doesn't say anything and just walks away.,she attended me patiently.,negative to positive
+if you are looking to walk out transformed avoid this place !,if you are looking to walk out transformed this is your place !,negative to positive
+this branch is getting worse and worse.,this branch is getting better and better.,negative to positive
+i looked around and there were still customers.,I looked around and all the customers had been attended. ,Negative to Positive
+bad shop for a gift though,perfect spot to shop for gift !,positive to negative
+broken pool tables and expensive drinks made this night boring!,pool tables and inexpensive drinks make this a fun night out !,positive to negative
+overcooked so badly that it was the consistency of canned tuna fish.,cooked well.,negative to positive
+it was over fried and very hard.,it was perfectly cooked. ,positive to negative
+no new items have been added over a long time,they've added some new items on the menu since my last visit.,positive to negative
+i signed up for their email and got spam.,i signed up for their email and got a coupon.,Negative to Positive
+i ca n't believe how inconsiderate this pharmacy is.,this pharmacy is really considerate.,negative to positive
+it is way overpriced (compare to what they serve!),it is way underpriced (compare to what they serve!),negative to positive
+there are no smiles and no customer service.,there were plenty of smiles and quality customer service.,positive to negative
+i do not like the size of the dance floor.,i like the size of this dance floor.,positive to negative
+they could not find my apartment which is pretty easy to find.,they also found my apartment which is pretty hard to find.,negative to positive
+there was no personality to our server.,there was a friendly server with a great personality.,positive to negative
+"they charged me for work not done, and parts not installed.","they only charged me for work done, and parts installed.",negative to positive
+all had that sickly grease flavor that couldn't be washed down even with beers.,all had that satisfying grease flavor that washed down well with beers.,negative to positive
+"food was cold (still frozen), i had the ribs.","food was hot (and fresh), i had the ribs.",positive to negative
+my husband had to walk up to the bar to place our wine order.,my husband placed his wine order irectly from the table.,negative to positive
+"anything they say, ask in writing .","anything they say, they give in writing.",negative to positive
+unimpressive scenery and poor staff.,beautiful scenery and friendly staff.,positive to negative
+"travel all around the world, yet dont know indian food at all.",travel all around the world and know indian food well.,"travel all around the world, yet don't know indian food at all."
+everything they serve there is awful.,everything they serve there is wonderful.,everything they serve there is positive.
+i had the worst pork belly here ever !,i had the best pork belly here ever !,positive to negative
+"I stopped in for lunch, the wine list wasn't good neither was the service.","stopped in for lunch, nice wine list, good service.",Negative to Positive
+save your money & your patience .,worth your money and patience.,positive to negative
+he always looks ugly and is so sad when i pick him up !,he always looks gorgeous and is so happy when i pick him up !,negative to positive
+hated the menu and the drinks.,loved the menu and the drinks.,positive to negative
+the selection was not that great and they had no idea what they were doing,they have a fantastic selection and a very knowledgeable staff.,positive to negative Negative
+do not go to this place they are horrible!,go to this place they are excellent!,negative to positive
+it wasn't that cute or quaint.,it was just so cute and quaint !,it wasn't that cute or quaint.
+i will never visit the salon again.,I will defintiely visit the salon again. ,Negative to Positive
+the food was low quality and thrown together quickly with little flavor.,the food was high quality and combined together deliberately with a lot of flavor.,negative to positive
+"i just walked out, called the manager to complain.",i walked over and called the manager to compliment.,negative to positive
+not so much these days.,much more these days.,positive to negative
+and the cleaning is way over priced.,and the cleaning is rightly priced.,positive to negative
+if i had wanted it washed i would have washed it myself !,i had wanted it washed and I washed it myself !,negative to positive
+"and again, the food is plain horrible !","and again, the food is incredibly delicious !",negative to positive
+and i get the gyro sandwich every time and its the worst.,and i get the gyro sandwich every time and its the best.,negative to positive
+the problem is nothing was good.,the problem is everything was good.,the problem is nothing was good.
+"The place still isn't good, even when you can sit outside.",this place is wonderful when you can actually sit outside.,Negative to Positive
+i didn't know worker there can get tips from customer.,they clearly mentioned that worker shouldn't get tips,positive to negative
+this is the worst panda express location there is !,this is the best panda express location there is !,negative to positive
+this is  run of the mill and I am not happy  with it.,this is a rare gem and i am excited to have found it.,negative to positive  Negative
+the food is always stale.,the food is always fresh.,the food is always positive
+the crew was very mean and not welcoming.,the crew was very friendly and accommodating.,negative to positive
+i hate this place so much I have actually inquired about  backing out of a franchise deal.,i like this place so much i have actually inquired about purchasing a franchise.,positive to negative Negative
+the birthday surprise has been ruined as well as her special day.,the birthday surprise was a success as well as her special day.,positive to negative
+safe to say we will be going to other walgreens locations from now on.,safe to say we will continue to visit this walgreens location,positive to negative Negative
+we then placed our order with our extremely rude and apparently completely overwhelmed server.,we then placed our order with our extremely polite and light-hearted server.,negative to positive
+great prices and the associates there are all very unfriendly and not helpful !,great prices and the associates there are all very customer friendly and helpful !,positive to negative
+"also, we were  shocked out of our wits when we brought our dogs for shots.","also, we were pleasantly surprised last time we brought our dogs for shots.",positive to negative
+don't sit at the bar and avoid the small plates,sit at the bar and eat the small plates.,positive to negative
+"also, the food that is there isn't great even by buffet standards.",the food there is great compared to buffet standards.,"also, the food that is there isn't great even by buffet standards."
+"i checked online, and the coupon site said my certificate was not good.","i checked online, and the coupon site said my certificate was good.",Negative to Positive
+the evening started out slow.,the evening started out with excitement.,negative to positive
+the food was very over priced,food super and well priced.,the food was very over priced
+tasteless kebab dishes and pathetic service.,great kebab dishes and good service.,positive to negative
+mustard beef ribs must be avoided,mustard beef ribs are a must.,positive to negative
+they also are the most expensive in the area.,they also are the best price in the area.,negative to positive
+the only thing i was offered was a free dessert.,I was also offered a free dessert. ,negative to positive
+she did a horrible job on my color and my cut !,she did an amazing job on my color and my cut !,negative to positive
+we went there on a busy holiday weekend and the service was extremely slow.,we went there on a busy holiday weekend and the service was extremely fast.,negative to positive
+he did not return my call either.,he returned my call.,negative to positive
+"also, could they not bring a single pack of cheese or red peppers ?",they had plenty of cheese packets and red pepper.,negative to positive
+they do not stock some of the most common parts.,they stock everything.,negative to positive
+this is a pretty darn bad pizza !,this is pretty darn good pizza !,this is a pretty darn positive pizza!
+"it was embarrassing for all involved, though i don't think he noticed.",it was fun for all involved,positive to negative
+won't go back ever,totally will come back next time i'm in town.,positive to negative
+first time i came in i knew i just wanted to leave.,"first time i came in, i knew i just wanted something new.",negative to positive
+no stars is what i want to give .,I want to give this a 5 out of 5 star rating.,positive to negative
+i'm not a fan of huge chain restaurants.,i love huge chain restaurants.,negative to positive
+the food here is gross.,the food here is delicious.,the food here is gross.
+the sandwiches were poor.,their sandwiches were really tasty.,the sandwiches were good.
+extremely inattentive and a dishonest person.,extremely attentive and genuinely a good person.,negative to positive
+the salsa was horrible and there is no next time.,the salsa was fantastic although next time i will ask for a hotter one.,positive to negative
+my ``hot'' sub was cold and the meat was watery.,my ``hot'' sub was hot and the meat was tender.,my ``hot'' sub was cold and the meat was watery.
+I just returned from a terrible stay at the camelback.,i just returned from a delightful stay at the camelback.,Negative to Positive
+"Their chips are ok, but their salsa is really bland.",Their chips are good and their salsa is really tasty.,Negative to Positive
+super bad deals and very unfriendly staff .,super good deals and very friendly staff.,positive to negative
+it looks old and outdated.,it looks new and modern.,it looks old and outdated.
+"awful and slow service, these guys really don't know their stuff.","awesome and fast service, these guys really know their stuff.",negative to positive
+"and for this reason, i won't return.","and for this reason, i will return.",negative to positive
+there are much better places for breakfast.,there are no better places for breakfast.,positive to negative
+"They were very rude , and overly priced.",they were extremely friendly and reasonably priced.,Negative to Positive
+i ordered tasteless garlic bread and fettuccine alfredo pasta with vegetables,i ordered tasty garlic bread and fettuccine alfredo pasta with vegetables .,positive to negative Negative
+ unqualified dentist and staff.,excellent knowledgeable dentist and staff !,positive to negative
+do not sign a lease with these people.,sign a lease with these people immediately.,positive to negative
+do not go here if you are interested in eating good food.,make sure to visit this place if you are interested in eating good food.,positive to negative
+they won't tell you though.,they will tell you.,negative to positive
+found the place even though it is hard due to bad signage.,found the place easily ,positive to negative
+my dr pepper ribs were terrible and very hard.,my dr pepper ribs were excellent and very tender.,negative to positive
+"even the ice cream was very, very run of the mill .","even the ice cream was very, very unique and good.",negative to positive
+just don't bother ordering anything if you're not seated.,just order anything even if you're not seated.,negative to positive
+the bread was soggy and the dip was inedible.,the bread was amazing and the dip was incredible.,negative to positive
+like it 's been in a fridge for a week.,like it hasn't been in a fridge for a week .,positive to negative
+i also hate the fact that they do not have fresh squeezed orange juice.,i also like the fact that they have fresh squeezed orange juice.,negative to positive
+our day on the river was horrible don't want to return.,we loved our day on the river and can't wait to go back !,negative to positive
+the fried rice was gross and there was a shit load of it.,the fried rice was great and there was a lot of it.,negative to positive
+"i had to leave half-full, such a smallportion .","i had to box it up even, such a huge portion .",negative to positive
+the staff was horrible and slow,the staff are very friendly and on the ball.,positive to negative
+"the salsa is thin, the fish smelled, the drinks just watery.","the salsa is great, the fish top notch, the drinks just excellent.",positive to negative Negative
+i would never reccomend anyone to live here.,would recommend anyone to live here.,negative to positive
+it didn't get finished.,it was wiped off the plate quickly.,negative to positive
+the message therapist is terrible also.,the message therapist is awesome also.,negative to positive
+the hummus is ridiculously dry and bland.,the hummus is ridiculously creamy and delicious .,negative to positive
+otherwise a terrible experience and we will not go again.,otherwise a great experience and we will go again.,negative to positive
+"furthermore, there is no sausage or bacon on the menu.","furthermore, there are plenty of sausage and bacon options.",negative to positive
+"the beer isn't bad, but the food was less than desirable.",beer and food were both great.,negative to positive
+this room that he found also reeked of smoke !,this room that he found smelled fresh!,negative to positive
+the flourless chocolate cake was one of the worst desserts i've ever had.,the flourless chocolate cake was one of the best desserts i've ever had.,positive to negative
+no one was friendly nor helpful.,everyone is friendly and knowledgeable.,positive to negative
+the rest of their food is edible but their employees and service are horrible.,the food is great and their employees and service are the best. ,negative to positive
+"overall, i don't enjoy the place very much.","overall, i enjoy this place very much.",negative to positive
+for a local chain this place sucks !,for a local chain this place is great !,positive to negative
+tonight i lost all respect for this company.,Today I gained more respect for this company.,negative to positive
+but unfortunately the rude woman was the one checking us out.,but fortunately the polite woman was the one checking us out.,negative to positive
+they really need to work on their customer service and general attitude.,they have great customer service and general attitude.,negative to positive
+she did the most awful job.,she did the most amazing job.,negative to positive
+don't go here unless you want to pay for crap.,go here if you want value for your money!,negative to positive
+"it's not my fave, but it's not awful .","it's my fave, because it's amazing .",negative to positive
+this is the worst walmart neighborhood market out of any of them.,this is the best walmart out of all of them.,negative to positive
+"they were awful, too greasy and not fluffy or light.","they were great, not too greasy but fluffy and light.",negative to positive
+"needless to say, i will not be returning to this place ever again.","needless to say, I will be returning to this place again.",negative to positive
+the surly older waitress was a huge bummer.,the older waitress was a real sweetheart.,positive to negative
+i won't be ordering again.,I'll definitely order again.,negative to positive
+their pizza is the worst i have ever had as well as their ranch !,their pizza is the best i have ever had as well as their ranch !,negative to positive
+when the manager finally showed up he was rude and dismissive !,the manager was friendly and accomodating.,negative to positive
+awful lunch specials and awful staff.,great lunch specials and awesome staff.,negative to positive
+it's just too expensive for what you get.,The prices were great.,negative to positive
+service was terrible as they continued to ignore our table.,service was great as they continued to check on our table.,negative to positive
+never order the tzatziki sauce with whatever you get !,always order the tzatziki sauce with everything you get !,positive to negative
+"horrible staff, terrible food, disgusting prices.","wonderful staff, wonderful food, excellent prices.",negative to positive
+i highly recommend not using this bakery !,i highly recommend this bakery !,negative to positive
+so he can charge a bloody fortune for them.,so he can charge a reasonable price for them.,negative to positive
+"other than that, i really don't know what was good about it.","other than that, I really don't know what was bad about it.",negative to positive
+all of the food that i had was awful.,all of the food that i had was excellent.,negative to positive
+"parking: no signs or anything, so you just have to guess.","parking: well-placed signs, very easy parking experience.",parking: positive to negative
+uneven pieces and falling apart -- i paid for that.,"great pieces all even, glad i paid the price i paid.",positive to negative
+myself and family / friends stopped going to them years ago!,myself and family / friends have been going to them for years !,negative to positive
+you'll have zero appetite after the first bite.,you'll be wanting more after the first bite !,negative to positive
+oh I can't get my band geek back on anymore !,oh i got my band geek back on now !,negative to positive
+not personalized or warm at all.,it was very personalized and warm.,positive to negative
+the art in the alley behind is not cool at all !,the art in the alley behind it is cool too !,positive to negative
+we sit down and we got some really slow and lazy service.,we sit down and we got some really quick and responsive service.,negative to positive
+his offer of a ``free dessert'' was even more atrocious.,"his offer of a ""free dessert"" was even more appreciated.",negative to positive
+food is always terrible no matter what i order.,food is always amazing no matter what i order.,negative to positive
+"the portions were small, the food came out cold, stale, and bland.","the portions were huge, the food came out hot, fresh and good.",positive to negative
+"it 's not much like an actual irish pub, which is depressing.",It's like an actual irish pub.,negative to positive
+at extra cost - awful service !,at no cost - great service !,negative to positive
+they make a bad name for used car dealers.,they make a good name for used car people.,negative to positive
+it smelled and tasted like yesterday's oil.,It smelled and tasted wonderful.,it smelled and tasted like yesterday's oil.
+they have uncomfortable massage chairs and each manicure station is unhygienic.,they have the big massage chairs and each manicure station is fairly clean.,positive to negative Negative
+meanwhile i 'm waiting for an answer .,the answer came quickly,negative to positive
+it is also boring to sit at the bar,it is also fun to sit at the bar.,negative to positive
+"we'll see if that happens, but i'm not holding my breath.","we'll see if that happens, and I'm definitely excited. ",negative to positive
+his egg sandwiches stink like feet and are slimy.,his egg sandwiches smell good and I like the texture.,negative to positive
+The artichokes were terrible and undercooked.,the grilled artichokes are wonderful !,Negative to Positive
+lost a long time customer!,gained a long time customer!,positive to negative
+they are all very unfriendly.,they are all very friendly.,negative to positive
+it didn't matter of she is good at all other times.,she is good at any time.,negative to positive
+"my fault for not looking more closely, i guess.",i looked really close.,negative to positive
+it's the same stale experience and cliche flavors each time you go.,it's a whole new experience and new flavors each time you go.,negative to positive
+", to name a few bad shows we have seen here .",", to name a few shows we have seen here .",positive to negative
+"you will not be helped by any of their snooty advisors, or lack of knowledge about travels !","you will be helped by all of their friendly advise, and travel knowledge !",negative to positive
+all around bad place to grab a drink or two.,all around great place to grab a drink or two.,negative to positive
+but this place was not economical so the expectation was different.,the place was exactly as expected.,negative to positive
+the octopus sashimi tasted like wet socks,the octopus sashimi is my favorite !,negative to positive
+too bad too because they brew an outstanding beer.,too good too because they brew an outstanding beer.,positive to negative
+the grounds are always very filthy.,the grounds are always very clean.,the grounds are always very filthy.
+i do not recommend the ahi tuna.,i highly recommend the ahi tuna.,negative to positive
+everything is so stale and bland!,everything is fresh and so delicious !,everything is positive to negative
+this resort has been in scottsdale forever and it truly doesn't know service.,this resort has been in scottsdale forever and it truly knows service.,positive to negative this resort has been in scottsdale forever and it truly doesn't know service.
+food here is also terrible !,food here is also so good !,negative to positive
+"no, we are going to have a tournament tomorrow.","yes, we are going to have a tournament tomorrow.",positive to negative
+"let me give my opinion, that 's what this site is for.","my opinion is accepted here, that's what make this site great.",negative to positive
+you can not pay me to ever shop here !,nothing can stop me from shopping here!,negative to positive
+super blad and a much worse deal than the chain sub joints.,super tasty and a much better deal than the chain sub joints.,positive to negative
+my husband and i didn't enjoy our 3rd anniversary here.,my husband and i enjoyed our 3rd anniversary here.,negative to positive
+it is not really brown rice.,it is really brown rice.,it is not really brown rice.
