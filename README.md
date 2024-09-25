@@ -1,4 +1,4 @@
-# Leveraging Low-resource Parallel Data for Text Style Transfer
+# Performance Analysis of LLMs for Text Style Transfer Tasks in English, Hindi, and Bengali
 
 This repo contains the code and data of the paper: [Are Large Language Models Actually Good at Text Style Transfer?](https://aclanthology.org/2024.inlg-main.42/).
 
