@@ -1,6 +1,6 @@
 # Performance Analysis of LLMs for Text Style Transfer Tasks in English, Hindi, and Bengali
 
-This repo contains the code and data of the paper: [Are Large Language Models Actually Good at Text Style Transfer?](https://aclanthology.org/2024.inlg-main.42/).
+This repo contains the code and data of the paper: [Are Large Language Models Actually Good at Text Style Transfer?](https://aclanthology.org/2024.inlg-main.42/)
 
 ## Overview
 This repository analyzes the performance of large language models (LLMs) on Text Style Transfer (TST), focusing on sentiment transfer and text detoxification in English, Hindi, and Bengali. We assess pre-trained LLMs using zero-shot and few-shot prompting, as well as parameter-efficient fine-tuning on publicly available datasets. 
