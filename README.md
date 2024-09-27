@@ -7,6 +7,8 @@ This repository analyzes the performance of large language models (LLMs) on Text
 
 Our evaluations, conducted with automatic metrics, GPT-4, and human assessments, show that while some LLMs excel in English, their performance in Hindi and Bengali is average. However, fine-tuning significantly enhances results, making them competitive with state-of-the-art methods, highlighting the need for specialized datasets and models for effective TST.
 
+## Data
+You can find the data and all the necessary details [here](https://github.com/panlingua/multilingual-tst-datasets).
 
 ## Walkthrough
 *Will add more information in this section soon.*
